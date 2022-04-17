@@ -1,0 +1,6 @@
+#556 minecraft:beach
+#109 minecraft:deep_cold_ocean
+#3DE minecraft:deep_ocean
+#010 minecraft:forest
+#4AA byg:rainbow_beach
+#2F3 byg:tropical_islands

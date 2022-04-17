@@ -1,0 +1,22 @@
+{
+  "id": "Temp-Home_-127-64-158",
+  "name": "Temp Home",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--13662588-waypoint-icon.png",
+  "x": -127,
+  "y": 64,
+  "z": -158,
+  "r": 47,
+  "g": 134,
+  "b": 132,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

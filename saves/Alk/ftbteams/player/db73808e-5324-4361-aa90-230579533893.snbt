@@ -1,0 +1,19 @@
+{
+	id: "db73808e-5324-4361-aa90-230579533893"
+	type: "player"
+	player_name: "banggugyangu"
+	ranks: {
+		db73808e-5324-4361-aa90-230579533893: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "banggugyangu"
+		"ftbteams:color": "#93FF59"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Potential_5015-63-3254",
+  "name": "Potential",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--11258268-waypoint-icon.png",
+  "x": 5015,
+  "y": 63,
+  "z": 3254,
+  "r": 84,
+  "g": 54,
+  "b": 100,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

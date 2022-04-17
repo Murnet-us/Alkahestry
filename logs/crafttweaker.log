@@ -1,0 +1,33 @@
+[08:03:20.277][CONSTRUCT][CLIENT][INFO] Starting building internal Registries
+[08:03:22.337][CONSTRUCT][CLIENT][INFO] The following mods have explicit CraftTweaker support:
+'ars_nouveau' at version '1.24.22'
+'astralsorcery' at version '1.16.5-1.13.12'
+'atum' at version '1.16.5-2.2.10'
+'bloodmagic' at version '1.16.4-3.1.7-27'
+'botania' at version '1.16.5-420.2'
+'botanypots' at version '7.1.32'
+'computercraft' at version '1.100.4'
+'crafttweaker' at version '7.1.2.508'
+'createautomated' at version '1.16.5-1.4.1a'
+'cyclic' at version '1.16.5-1.5.15'
+'draconicevolution' at version '3.0.22.444'
+'extendedcrafting' at version '3.1.11'
+'immersiveengineering' at version '1.16.5-5.0.7-143'
+'immersivepetroleum' at version '3.3.0-11'
+'jeitweaker' at version '1.1.0.49'
+'mekanism' at version '10.1.2'
+'mysticalagriculture' at version '4.2.6'
+'pneumaticcraft' at version '1.16.5-2.15.6-315'
+'projecte' at version 'PE1.0.2'
+'thermal' at version '1.4.3.10'
+'thermal_foundation' at version '1.4.3.10'
+[08:03:23.828][CONSTRUCT][CLIENT][INFO] Completed building internal Registries
+[08:03:54.594][LOAD_REGISTRIES][CLIENT][INFO] Started loading Scripts for Loader 'mekanismcontent'!
+[08:03:55.199][LOAD_REGISTRIES][CLIENT][INFO] Finished loading Scripts!
+[08:03:55.199][LOAD_REGISTRIES][CLIENT][INFO] Registering 0 custom gases.
+[08:03:55.219][LOAD_REGISTRIES][CLIENT][INFO] Registering 0 custom infuse types.
+[08:03:55.224][LOAD_REGISTRIES][CLIENT][INFO] Registering 0 custom pigments.
+[08:03:55.225][LOAD_REGISTRIES][CLIENT][INFO] Registering 0 custom robit skins.
+[08:03:55.227][LOAD_REGISTRIES][CLIENT][INFO] Registering 0 custom slurries.
+[08:04:47.537][COMMON_SETUP][CLIENT][INFO] Started loading Scripts for Loader 'setupCommon'!
+[08:04:47.621][COMMON_SETUP][CLIENT][INFO] Finished loading Scripts!

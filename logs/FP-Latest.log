@@ -1,0 +1,21 @@
+[8:3:19][modloading-worker-27] Starting futurepack 31.3.7005
+[8:3:19][modloading-worker-27] Debug Enabled: false
+[8:3:19][modloading-worker-27] Registered Loot Functions
+[8:4:4][Thread-1] FP config just got changed on the file system!
+[8:4:48][Thread-59] OK
+[8:4:53][Worker-Main-5] Could not find fields [skyBuffer, skyVBO] in class net.minecraft.client.renderer.WorldRenderer, but found fields of same type: [field_175013_s, field_175012_t, field_175011_u, field_204601_A, stars1, stars2, stars3, stars4, nebulas1, nebulas2, horizon, fog]
+[8:4:53][Worker-Main-5] Could not find fields [skyBuffer, skyVBO] in class net.minecraft.client.renderer.WorldRenderer, but found fields of same type: [field_175013_s, field_175012_t, field_175011_u, field_204601_A, stars1, stars2, stars3, stars4, nebulas1, nebulas2, horizon, fog]
+[8:4:53][Worker-Main-5] Could not find fields [skyBuffer, skyVBO] in class net.minecraft.client.renderer.WorldRenderer, but found fields of same type: [field_175013_s, field_175012_t, field_175011_u, field_204601_A, stars1, stars2, stars3, stars4, nebulas1, nebulas2, horizon, fog]
+[8:4:53][Worker-Main-5] Could not find fields [skyBuffer, skyVBO] in class net.minecraft.client.renderer.WorldRenderer, but found fields of same type: [field_175013_s, field_175012_t, field_175011_u, field_204601_A, stars1, stars2, stars3, stars4, nebulas1, nebulas2, horizon, fog]
+[8:5:9][FP-Menue Thread] Starting Menue Thread
+[8:6:50][Render thread] Added class net.minecraft.inventory.container.WorkbenchContainer to allowed Research-Crafting containers (Player:public final net.minecraft.entity.player.PlayerEntity net.minecraft.inventory.container.WorkbenchContainer.field_192390_i)
+[8:7:27][Render thread] Unable to determine player for class com.buuz135.industrial.utils.CraftingUtils$1 (Examined Fields:[])
+[8:7:41][Render thread] Added 25 recipes for futurepack:furnace.industrial.neon
+[8:7:41][Render thread] Added 36 recipes for futurepack:recycler
+[8:7:41][Render thread] Added 10 recipes for futurepack:furnace.industrial
+[8:7:41][Render thread] Added 35 recipes for futurepack:assembly
+[8:7:41][Render thread] Added 32 recipes for futurepack:recycler
+[8:7:41][Render thread] Added 1407 recipes for futurepack:recycler
+[8:7:41][Render thread] Added 220 recipes for futurepack:crusher
+[8:7:41][Render thread] Added 83 recipes for futurepack:zentrifuge
+[9:6:43][Render thread] Unable to determine player for class com.refinedmods.refinedstorage.apiimpl.autocrafting.CraftingPattern$DummyCraftingInventory$1 (Examined Fields:[])

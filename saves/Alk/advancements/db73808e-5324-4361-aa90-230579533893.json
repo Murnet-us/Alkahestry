@@ -1,0 +1,261 @@
+{
+  "mcwwindows:recipes/mosaic_pane/orange_mosaic_glass_pane": {
+    "criteria": {
+      "has_mosaic_glass": "2022-04-11 11:18:50 -0500"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2022-04-11 11:18:50 -0500"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2022-04-11 11:18:50 -0500"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade": {
+    "criteria": {
+      "has_smoking_upgrade": "2022-04-11 11:18:50 -0500"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2022-04-11 11:18:50 -0500"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2022-04-11 11:18:50 -0500"
+    },
+    "done": true
+  },
+  "architects_palette:main/root": {
+    "criteria": {
+      "craftingtable": "2022-04-11 11:18:50 -0500"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade_from_auto_smelting_upgrade": {
+    "criteria": {
+      "has_auto_smelting_upgrade": "2022-04-11 11:18:50 -0500"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/mosaic_pane/magenta_mosaic_glass_pane": {
+    "criteria": {
+      "has_mosaic_glass": "2022-04-11 11:18:50 -0500"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/mosaic_pane/light_gray_mosaic_glass_pane": {
+    "criteria": {
+      "has_mosaic_glass": "2022-04-11 11:18:50 -0500"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/mosaic_pane/pink_mosaic_glass_pane": {
+    "criteria": {
+      "has_mosaic_glass": "2022-04-11 11:18:50 -0500"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/mosaic_pane/purple_mosaic_glass_pane": {
+    "criteria": {
+      "has_mosaic_glass": "2022-04-11 11:18:49 -0500"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/cursed_ring": {
+    "criteria": {
+      "has_items": "2022-04-11 11:18:50 -0500"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/mosaic_pane/light_blue_mosaic_glass_pane": {
+    "criteria": {
+      "has_mosaic_glass": "2022-04-11 11:18:50 -0500"
+    },
+    "done": true
+  },
+  "astralsorcery:root": {
+    "criteria": {
+      "astralsorcery_present": "2022-04-11 11:18:50 -0500"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/mosaic_pane/lime_mosaic_glass_pane": {
+    "criteria": {
+      "has_mosaic_glass": "2022-04-11 11:18:50 -0500"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/mosaic_pane/cyan_mosaic_glass_pane": {
+    "criteria": {
+      "has_mosaic_glass": "2022-04-11 11:18:50 -0500"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade": {
+    "criteria": {
+      "has_blasting_upgrade": "2022-04-11 11:18:50 -0500"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2022-04-11 11:18:50 -0500"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/mosaic_pane/red_mosaic_glass_pane": {
+    "criteria": {
+      "has_mosaic_glass": "2022-04-11 11:18:50 -0500"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/mosaic_pane/white_mosaic_glass_pane": {
+    "criteria": {
+      "has_mosaic_glass": "2022-04-11 11:18:50 -0500"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/mosaic_pane/gray_mosaic_glass_pane": {
+    "criteria": {
+      "has_mosaic_glass": "2022-04-11 11:18:50 -0500"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/enigmatic_amulet": {
+    "criteria": {
+      "has_items": "2022-04-11 11:18:50 -0500"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2022-04-11 11:18:50 -0500"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/the_acknowledgment": {
+    "criteria": {
+      "has_iron_ingot": "2022-04-11 11:18:50 -0500"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2022-04-11 11:18:50 -0500"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2022-04-11 11:18:50 -0500"
+    },
+    "done": true
+  },
+  "resourcefulbees:resourcefulbees/root": {
+    "criteria": {
+      "inventory_changed": "2022-04-11 11:18:50 -0500"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/mosaic_pane/yellow_mosaic_glass_pane": {
+    "criteria": {
+      "has_mosaic_glass": "2022-04-11 11:18:50 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2022-04-11 11:18:50 -0500"
+    },
+    "done": true
+  },
+  "the_afterlight:book_grant": {
+    "criteria": {
+      "book_grant": "2022-04-11 11:18:50 -0500"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/mosaic_pane/brown_mosaic_glass_pane": {
+    "criteria": {
+      "has_mosaic_glass": "2022-04-11 11:18:50 -0500"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:main/root": {
+    "criteria": {
+      "flower": "2022-04-11 11:18:50 -0500"
+    },
+    "done": true
+  },
+  "undergarden:undergarden/root": {
+    "criteria": {
+      "tick": "2022-04-11 11:18:50 -0500"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/mosaic_pane/blue_mosaic_glass_pane": {
+    "criteria": {
+      "has_mosaic_glass": "2022-04-11 11:18:50 -0500"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/root": {
+    "criteria": {
+      "game_start": "2022-04-11 11:18:50 -0500"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/mosaic_pane/black_mosaic_glass_pane": {
+    "criteria": {
+      "has_mosaic_glass": "2022-04-11 11:18:50 -0500"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2022-04-11 11:18:50 -0500"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/mosaic_pane/green_mosaic_glass_pane": {
+    "criteria": {
+      "has_mosaic_glass": "2022-04-11 11:18:50 -0500"
+    },
+    "done": true
+  },
+  "redstonerepository:root": {
+    "criteria": {
+      "any": "2022-04-11 11:18:50 -0500"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade_from_auto_smelting_upgrade": {
+    "criteria": {
+      "has_auto_smelting_upgrade": "2022-04-11 11:18:50 -0500"
+    },
+    "done": true
+  },
+  "forestry:root": {
+    "criteria": {
+      "tick": "2022-04-11 11:18:50 -0500"
+    },
+    "done": true
+  },
+  "occultism:occultism/root": {
+    "criteria": {
+      "occultism_present": "2022-04-11 11:18:50 -0500"
+    },
+    "done": true
+  },
+  "DataVersion": 2586
+}

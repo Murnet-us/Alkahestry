@@ -1,0 +1,13 @@
+{
+	version: 1
+	uuid: "db73808e53244361aa90230579533893"
+	name: "banggugyangu"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}
