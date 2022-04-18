@@ -1,8 +1,0 @@
-2022-04-17 18:41:43: == Sync Started by Continue After User Wait
-2022-04-17 18:41:43: Copy Over 'F:/Minecraft/Instances/Alkahestry/logs/crafttweaker.log' -> 'F:/BBlock S/logs/crafttweaker.log' (1,796)
-- ERROR: Cannot move destination file to history folder: F:/BBlock S/_gsdata_/_saved_/logs/crafttweaker.log: The process cannot access the file because it is being used by another process.  (error 32)
-2022-04-17 18:41:43: Copy Over 'F:/Minecraft/Instances/Alkahestry/logs/FP-Latest.log' -> 'F:/BBlock S/logs/FP-Latest.log' (7,103)
-- ERROR: Cannot move destination file to history folder: F:/BBlock S/_gsdata_/_saved_/logs/FP-Latest.log: The process cannot access the file because it is being used by another process.  (error 32)
-2022-04-17 18:41:43: Copy Over 'F:/Minecraft/Instances/Alkahestry/logs/latest.log' -> 'F:/BBlock S/logs/latest.log' (8,034,511)
-- ERROR: Cannot move destination file to history folder: F:/BBlock S/_gsdata_/_saved_/logs/latest.log: The process cannot access the file because it is being used by another process.  (error 32)
-2022-04-17 18:41:43: == Sync Complete. Time: 00:00:00, Speed: 0.00/s, OK: 0, Errors: 3

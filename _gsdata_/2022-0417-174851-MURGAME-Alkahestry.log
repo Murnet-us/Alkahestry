@@ -1,7 +1,0 @@
-2022-04-17 17:48:51: -- Analysis Started by User Command
-2022-04-17 17:48:51: /logs/crafttweaker.log: Conflict: New files that differ
-2022-04-17 17:48:51: /logs/FP-Latest.log: Conflict: New files that differ
-2022-04-17 17:48:51: /logs/latest.log: Conflict: New files that differ
-2022-04-17 17:48:51: Analyze has finished with Conflicts. Resolve Conflicts by selecting the correct sync direction, then click Sync
-2022-04-17 17:48:51: Changes: 3, Conflicts: 3, CopyTime: 0, FixState: 0, Errors: 0, All: 479
-2022-04-17 17:48:51: -- Analysis Complete. Time 00:00:00, Speed: Many files/s
