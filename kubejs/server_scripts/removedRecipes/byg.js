@@ -12,7 +12,18 @@ onEvent('recipes', event => {
 
     //Chain Plating
     event.remove({id: "byg:chain_plating"})
+
+
+
+
+})
+
+onEvent('jei.hide.items', event => {
+    //Hidden Items
+
+    //Chain Plating
     event.hide({id: "byg:chain_plating"})
+
 })
 
 onEvent('item.tags', event => {

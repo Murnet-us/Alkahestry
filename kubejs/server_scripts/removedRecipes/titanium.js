@@ -10,12 +10,17 @@ console.info('Project Expansion Recipes Loading.')
 onEvent('recipes', event => {
 	//Removed Recipes
 
-    //Chain Plating
+    //Iron Gear
     event.remove({id: "titanium:iron_gear"})
-    event.hide({id: "titanium:iron_gear"})
 
     
 
+})
+
+onEvent('jei.hide.items', event => {
+    //Hidden JEI Items
+    //Iron Gear
+    event.hide({id: "titanium:iron_gear"})
 })
 
 onEvent('item.tags', event => {

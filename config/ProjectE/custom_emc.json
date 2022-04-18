@@ -171,6 +171,10 @@
     {
       "item": "mekanism:steel_casing",
       "emc": 0
+    },
+    {
+      "item": "fluxnetworks:flux_dust",
+      "emc": 256
     }
   ]
 }
