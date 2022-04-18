@@ -24648,3 +24648,536 @@ java.io.IOException: The handle is invalid
 [17Apr2022 20:31:53.933] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.murad.shipping.entity.custom.tug.AbstractTugEntity from class dev.murad.shipping.entity.custom.barge.FluidTankBargeEntity
 [17Apr2022 20:31:54.014] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class elucent.eidolon.entity.NecromancerEntity from class elucent.eidolon.entity.NecromancerSpellEntity
 [17Apr2022 20:31:54.078] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class net.minecraft.entity.passive.TameableEntity from interface com.hollingsworth.arsnouveau.api.IFollowingSummon
+[17Apr2022 20:31:54.219] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class vazkii.psi.common.entity.EntitySpellProjectile from class com.dudblockman.psipherals.entity.EntityPsiArrow
+[17Apr2022 20:31:54.254] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class de.maxhenkel.car.entity.car.base.EntityCarInventoryBase from class de.maxhenkel.car.entity.car.base.EntityCarLockBase
+[17Apr2022 20:31:54.263] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class com.sammy.malum.common.entities.boomerang.ScytheBoomerangEntity from class com.sammy.malum.common.entities.spirit.SpiritItemEntity
+[17Apr2022 20:31:54.267] [Server thread/INFO] [com.song.castle_in_the_sky.CastleInTheSky/]: HELLO from server starting
+[17Apr2022 20:31:54.271] [Server thread/INFO] [dev.murad.shipping.ShippingMod/]: HELLO from server starting
+[17Apr2022 20:31:54.274] [Server thread/INFO] [com.lgmrszd.compressedcreativity.CompressedCreativity/]: HELLO from server starting
+[17Apr2022 20:31:54.328] [Server thread/INFO] [com.gmail.picono435.randomtp.RandomTP/]: Registering permission nodes...
+[17Apr2022 20:31:54.328] [Server thread/INFO] [com.gmail.picono435.randomtp.RandomTP/]: RandomTP successfully loaded.
+[17Apr2022 20:31:54.328] [Server thread/INFO] [com.github.elrol.industrialagriculture.IndustrialAgriculture/]: HELLO from server starting
+[17Apr2022 20:31:54.336] [Server thread/INFO] [com.Imphuls3.createcafe.CreateCafe/]: HELLO from server starting
+[17Apr2022 20:31:54.336] [Server thread/INFO] [com.haoict.tiab.Tiab/]: HELLO from server starting
+[17Apr2022 20:31:54.838] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft]Registering Soils!
+[17Apr2022 20:31:54.850] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft]Registered Soils (17/17):
+[17Apr2022 20:31:54.851] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - clay_soil
+[17Apr2022 20:31:54.851] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - sand_soil
+[17Apr2022 20:31:54.851] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - farmland_soil
+[17Apr2022 20:31:54.851] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - none
+[17Apr2022 20:31:54.851] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - tertium_farmland_soil
+[17Apr2022 20:31:54.851] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - crimson_nylium_soil
+[17Apr2022 20:31:54.851] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - podzol_soil
+[17Apr2022 20:31:54.851] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - insanium_farmland_soil
+[17Apr2022 20:31:54.851] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - supremium_farmland_soil
+[17Apr2022 20:31:54.851] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - glowcelium_soil
+[17Apr2022 20:31:54.851] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - inferium_farmland_soil
+[17Apr2022 20:31:54.851] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mycelium_soil
+[17Apr2022 20:31:54.851] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - gravel_soil
+[17Apr2022 20:31:54.851] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - prudentium_farmland_soil
+[17Apr2022 20:31:54.851] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - imperium_farmland_soil
+[17Apr2022 20:31:54.851] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - soul_soil_soil
+[17Apr2022 20:31:54.851] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - warped_nylium_soil
+[17Apr2022 20:31:54.851] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - soul_sand_soil
+[17Apr2022 20:31:54.851] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft]Registering Plants!
+[17Apr2022 20:31:54.860] [Server thread/ERROR] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft]Unable to resolve Item Tag Entry: "forge:ores/platinum".
+[17Apr2022 20:31:54.860] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricore]Invalid Condition: Invalid Block: forge:ores/platinum!
+[17Apr2022 20:31:54.860] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricore]Invalid Block Condition: 
+Condition:
+	- Object:
+		- Type:block
+		- Object: forge:ores/platinum
+		- UseTag: true
+		- Data: 
+		- IgnoreData: []
+	- Amount: 1
+	- Min Coord: (0, -2, 0)
+	- Max Coord: (0, -2, 0)
+[17Apr2022 20:31:54.860] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricore]Invalid Plant: resource:platiolus_plant! Invalid Requirement!
+[17Apr2022 20:31:54.937] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft]Registered Plants (215/216):
+[17Apr2022 20:31:54.937] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:ruby_plant
+[17Apr2022 20:31:54.937] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:uranium_plant
+[17Apr2022 20:31:54.937] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - vanilla:carrot_plant
+[17Apr2022 20:31:54.937] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - upgrade_aquatic:pink_searocket_plant
+[17Apr2022 20:31:54.937] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:compressed_iron_plant
+[17Apr2022 20:31:54.938] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:apatite_plant
+[17Apr2022 20:31:54.938] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:basalz_plant
+[17Apr2022 20:31:54.938] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:skeleton_plant
+[17Apr2022 20:31:54.938] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - botania:cyan_flower_plant
+[17Apr2022 20:31:54.938] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:tin_plant
+[17Apr2022 20:31:54.938] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:limestone_plant
+[17Apr2022 20:31:54.938] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - thermal:rice_plant
+[17Apr2022 20:31:54.938] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:zinc_plant
+[17Apr2022 20:31:54.938] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:sky_stone_plant
+[17Apr2022 20:31:54.938] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:water_plant
+[17Apr2022 20:31:54.938] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:tinkers_bronze_plant
+[17Apr2022 20:31:54.938] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - resource:quartzanthemum_plant
+[17Apr2022 20:31:54.938] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - thermal:corn_plant
+[17Apr2022 20:31:54.938] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:sapphire_plant
+[17Apr2022 20:31:54.938] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - vanilla:beet_root_plant
+[17Apr2022 20:31:54.938] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - resource:cuprosia_plant
+[17Apr2022 20:31:54.938] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - upgrade_aquatic:white_searocket_plant
+[17Apr2022 20:31:54.938] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:fire_plant
+[17Apr2022 20:31:54.938] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - vanilla:potato_plant
+[17Apr2022 20:31:54.938] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:fluorite_plant
+[17Apr2022 20:31:54.938] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - botania:magenta_flower_plant
+[17Apr2022 20:31:54.938] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:cyanite_plant
+[17Apr2022 20:31:54.938] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - immersiveengineering:hemp_plant
+[17Apr2022 20:31:54.938] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:rock_crystal_plant
+[17Apr2022 20:31:54.938] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:certus_quartz_plant
+[17Apr2022 20:31:54.938] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:aquamarine_plant
+[17Apr2022 20:31:54.938] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:constantan_plant
+[17Apr2022 20:31:54.938] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - resource:petinia_plant
+[17Apr2022 20:31:54.938] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - thermal:barley_plant
+[17Apr2022 20:31:54.938] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - vanilla:orchid_plant
+[17Apr2022 20:31:54.939] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:nether_plant
+[17Apr2022 20:31:54.939] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:blaze_plant
+[17Apr2022 20:31:54.939] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - buzzier_bees:white_clover_plant
+[17Apr2022 20:31:54.939] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:graphite_plant
+[17Apr2022 20:31:54.939] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:invar_plant
+[17Apr2022 20:31:54.939] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - vanilla:wither_rose_plant
+[17Apr2022 20:31:54.939] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:draconium_plant
+[17Apr2022 20:31:54.939] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:honey_plant
+[17Apr2022 20:31:54.939] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - upgrade_aquatic:thorny_kelp_plant
+[17Apr2022 20:31:54.939] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:earth_plant
+[17Apr2022 20:31:54.939] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:sulfur_plant
+[17Apr2022 20:31:54.939] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:basalt_plant
+[17Apr2022 20:31:54.939] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - upgrade_aquatic:blue_pickerelweed_plant
+[17Apr2022 20:31:54.939] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:end_plant
+[17Apr2022 20:31:54.939] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - resource:lapender_plant
+[17Apr2022 20:31:54.939] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - vanilla:white_tulip_plant
+[17Apr2022 20:31:54.939] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:obsidian_plant
+[17Apr2022 20:31:54.939] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - vanilla:orange_tulip_plant
+[17Apr2022 20:31:54.939] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:nature_plant
+[17Apr2022 20:31:54.939] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:fluix_plant
+[17Apr2022 20:31:54.939] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:mithril_plant
+[17Apr2022 20:31:54.939] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:nether_star_plant
+[17Apr2022 20:31:54.939] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:refined_glowstone_plant
+[17Apr2022 20:31:54.939] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:energized_steel_plant
+[17Apr2022 20:31:54.939] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:osmium_plant
+[17Apr2022 20:31:54.939] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:ender_biotite_plant
+[17Apr2022 20:31:54.939] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:zombie_plant
+[17Apr2022 20:31:54.939] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - vanilla:sea_grass_plant
+[17Apr2022 20:31:54.939] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - vanilla:wheat_plant
+[17Apr2022 20:31:54.940] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - vanilla:lily_plant
+[17Apr2022 20:31:54.940] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:spider_plant
+[17Apr2022 20:31:54.940] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:copper_plant
+[17Apr2022 20:31:54.940] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:emerald_plant
+[17Apr2022 20:31:54.940] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - vanilla:melon_plant
+[17Apr2022 20:31:54.940] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - vanilla:kelp_plant
+[17Apr2022 20:31:54.940] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - vanilla:sweet_berry_plant
+[17Apr2022 20:31:54.940] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - thermal:peanut_plant
+[17Apr2022 20:31:54.940] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:rose_gold_plant
+[17Apr2022 20:31:54.940] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - vanilla:bamboo_plant
+[17Apr2022 20:31:54.940] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - resource:aurigold_plant
+[17Apr2022 20:31:54.940] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - resource:niccissus_plant
+[17Apr2022 20:31:54.940] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:inferium_plant
+[17Apr2022 20:31:54.940] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - upgrade_aquatic:ochre_kelp_plant
+[17Apr2022 20:31:54.940] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:nitro_crystal_plant
+[17Apr2022 20:31:54.940] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:slimesteel_plant
+[17Apr2022 20:31:54.940] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:titanium_plant
+[17Apr2022 20:31:54.940] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - vanilla:cornflower_plant
+[17Apr2022 20:31:54.940] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:hepatizon_plant
+[17Apr2022 20:31:54.940] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:dirt_plant
+[17Apr2022 20:31:54.940] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:air_plant
+[17Apr2022 20:31:54.940] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:bronze_plant
+[17Apr2022 20:31:54.940] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:blitz_plant
+[17Apr2022 20:31:54.940] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:experience_plant
+[17Apr2022 20:31:54.940] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:electrum_plant
+[17Apr2022 20:31:54.940] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - vanilla:crimson_fungus_plant
+[17Apr2022 20:31:54.940] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - botania:light_gray_flower_plant
+[17Apr2022 20:31:54.940] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - vanilla:pumpkin_plant
+[17Apr2022 20:31:54.940] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:manyullyn_plant
+[17Apr2022 20:31:54.940] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:chrome_plant
+[17Apr2022 20:31:54.941] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - resource:osmonium_plant
+[17Apr2022 20:31:54.941] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - resource:nitorwart_plant
+[17Apr2022 20:31:54.941] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - thermal:sadiroot_plant
+[17Apr2022 20:31:54.941] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - vanilla:red_mushroom_plant
+[17Apr2022 20:31:54.941] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:manasteel_plant
+[17Apr2022 20:31:54.941] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - upgrade_aquatic:tongue_kelp_plant
+[17Apr2022 20:31:54.941] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - vanilla:dandelion_plant
+[17Apr2022 20:31:54.941] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:marble_plant
+[17Apr2022 20:31:54.941] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:lapis_lazuli_plant
+[17Apr2022 20:31:54.941] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - botania:brown_flower_plant
+[17Apr2022 20:31:54.941] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:wood_plant
+[17Apr2022 20:31:54.941] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:enderman_plant
+[17Apr2022 20:31:54.941] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:fish_plant
+[17Apr2022 20:31:54.941] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - upgrade_aquatic:purple_pickerelweed_plant
+[17Apr2022 20:31:54.941] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:quartz_enriched_iron_plant
+[17Apr2022 20:31:54.941] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - vanilla:daisy_plant
+[17Apr2022 20:31:54.941] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - none
+[17Apr2022 20:31:54.941] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:stone_plant
+[17Apr2022 20:31:54.941] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - thermal:tea_plant
+[17Apr2022 20:31:54.941] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:steeleaf_plant
+[17Apr2022 20:31:54.941] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - vanilla:allium_plant
+[17Apr2022 20:31:54.941] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - thermal:radish_plant
+[17Apr2022 20:31:54.941] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - resource:emeryllis_plant
+[17Apr2022 20:31:54.941] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - botania:light_blue_flower_plant
+[17Apr2022 20:31:54.941] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:dye_plant
+[17Apr2022 20:31:54.941] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - botania:blue_flower_plant
+[17Apr2022 20:31:54.941] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:creeper_plant
+[17Apr2022 20:31:54.941] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:nickel_plant
+[17Apr2022 20:31:54.942] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - botania:yellow_flower_plant
+[17Apr2022 20:31:54.942] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:coral_plant
+[17Apr2022 20:31:54.942] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:turtle_plant
+[17Apr2022 20:31:54.942] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:slime_plant
+[17Apr2022 20:31:54.942] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:queens_slime_plant
+[17Apr2022 20:31:54.942] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:gold_plant
+[17Apr2022 20:31:54.942] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - thermal:frost_melon_plant
+[17Apr2022 20:31:54.942] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:lead_plant
+[17Apr2022 20:31:54.942] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:refined_obsidian_plant
+[17Apr2022 20:31:54.942] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:enderium_plant
+[17Apr2022 20:31:54.942] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - vanilla:pink_tulip_plant
+[17Apr2022 20:31:54.942] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:niotic_crystal_plant
+[17Apr2022 20:31:54.942] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - thermal:strawberry_plant
+[17Apr2022 20:31:54.942] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:iron_plant
+[17Apr2022 20:31:54.942] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:terrasteel_plant
+[17Apr2022 20:31:54.942] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - quark:glowshroom_plant
+[17Apr2022 20:31:54.942] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - resource:carbonation_plant
+[17Apr2022 20:31:54.942] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:ice_plant
+[17Apr2022 20:31:54.942] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:blazing_crystal_plant
+[17Apr2022 20:31:54.942] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:silicon_plant
+[17Apr2022 20:31:54.942] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - vanilla:nether_wart_plant
+[17Apr2022 20:31:54.942] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:dragon_egg_plant
+[17Apr2022 20:31:54.942] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:elementium_plant
+[17Apr2022 20:31:54.942] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:tungsten_plant
+[17Apr2022 20:31:54.942] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - thermal:onion_plant
+[17Apr2022 20:31:54.942] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - vanilla:sugarcane_plant
+[17Apr2022 20:31:54.942] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - vanilla:brown_mushroom_plant
+[17Apr2022 20:31:54.942] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:hop_graphite_plant
+[17Apr2022 20:31:54.942] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - thermal:spinach_plant
+[17Apr2022 20:31:54.942] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:spirited_crystal_plant
+[17Apr2022 20:31:54.942] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - botania:purple_flower_plant
+[17Apr2022 20:31:54.943] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - botania:orange_flower_plant
+[17Apr2022 20:31:54.943] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:rubber_plant
+[17Apr2022 20:31:54.943] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:lumium_plant
+[17Apr2022 20:31:54.943] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - vanilla:sea_pickle_plant
+[17Apr2022 20:31:54.943] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:cow_plant
+[17Apr2022 20:31:54.943] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - buzzier_bees:pink_clover_plant
+[17Apr2022 20:31:54.943] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:mystical_flower_plant
+[17Apr2022 20:31:54.943] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - resource:plombean_plant
+[17Apr2022 20:31:54.943] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - resource:diamahlia_plant
+[17Apr2022 20:31:54.943] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:coal_plant
+[17Apr2022 20:31:54.943] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:chicken_plant
+[17Apr2022 20:31:54.943] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - botania:white_flower_plant
+[17Apr2022 20:31:54.943] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - thermal:green_bean_plant
+[17Apr2022 20:31:54.943] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - buzzier_bees:buttercup_plant
+[17Apr2022 20:31:54.943] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - botania:red_flower_plant
+[17Apr2022 20:31:54.943] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:diamond_plant
+[17Apr2022 20:31:54.943] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - botania:pink_flower_plant
+[17Apr2022 20:31:54.944] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - thermal:tomato_plant
+[17Apr2022 20:31:54.944] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - vanilla:cactus_plant
+[17Apr2022 20:31:54.944] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:knightmetal_plant
+[17Apr2022 20:31:54.944] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - thermal:bell_pepper_plant
+[17Apr2022 20:31:54.944] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:pig_plant
+[17Apr2022 20:31:54.944] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:wither_skeleton_plant
+[17Apr2022 20:31:54.944] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:awakened_draconium_plant
+[17Apr2022 20:31:54.944] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:signalum_plant
+[17Apr2022 20:31:54.944] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:netherite_plant
+[17Apr2022 20:31:54.944] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - botania:gray_flower_plant
+[17Apr2022 20:31:54.944] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:platinum_plant
+[17Apr2022 20:31:54.944] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:blizz_plant
+[17Apr2022 20:31:54.944] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:glowstone_plant
+[17Apr2022 20:31:54.944] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:uraninite_plant
+[17Apr2022 20:31:54.944] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:cobalt_plant
+[17Apr2022 20:31:54.944] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:aluminum_plant
+[17Apr2022 20:31:54.944] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:brass_plant
+[17Apr2022 20:31:54.944] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:sheep_plant
+[17Apr2022 20:31:54.944] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:rabbit_plant
+[17Apr2022 20:31:54.944] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - botania:black_flower_plant
+[17Apr2022 20:31:54.944] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:pig_iron_plant
+[17Apr2022 20:31:54.944] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:redstone_plant
+[17Apr2022 20:31:54.944] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - vanilla:poppy_plant
+[17Apr2022 20:31:54.944] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:prismarine_plant
+[17Apr2022 20:31:54.945] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:silver_plant
+[17Apr2022 20:31:54.945] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - botania:green_flower_plant
+[17Apr2022 20:31:54.945] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - botania:lime_flower_plant
+[17Apr2022 20:31:54.945] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - thermal:eggplant_plant
+[17Apr2022 20:31:54.945] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - resource:redstodendron_plant
+[17Apr2022 20:31:54.945] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:nether_quartz_plant
+[17Apr2022 20:31:54.945] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - resource:ferranium_plant
+[17Apr2022 20:31:54.945] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - vanilla:red_tulip_plant
+[17Apr2022 20:31:54.945] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - vanilla:bluet_plant
+[17Apr2022 20:31:54.945] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:saltpeter_plant
+[17Apr2022 20:31:54.945] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - vanilla:warped_fungus_plant
+[17Apr2022 20:31:54.945] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:ghast_plant
+[17Apr2022 20:31:54.945] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:iridium_plant
+[17Apr2022 20:31:54.945] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:ironwood_plant
+[17Apr2022 20:31:54.945] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - upgrade_aquatic:polar_kelp_plant
+[17Apr2022 20:31:54.945] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:steel_plant
+[17Apr2022 20:31:54.945] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:squid_plant
+[17Apr2022 20:31:54.945] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:yellorium_plant
+[17Apr2022 20:31:54.945] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - resource:jaslumine_plant
+[17Apr2022 20:31:54.945] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - thermal:coffee_plant
+[17Apr2022 20:31:54.945] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:fiery_ingot_plant
+[17Apr2022 20:31:54.945] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:starmetal_plant
+[17Apr2022 20:31:54.945] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft]Registering Weeds!
+[17Apr2022 20:31:54.949] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft]Registered Weeds (1/1):
+[17Apr2022 20:31:54.949] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - agricraft:weed_weed
+[17Apr2022 20:31:54.949] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - none
+[17Apr2022 20:31:54.949] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft]Registering Mutations!
+[17Apr2022 20:31:54.949] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricore]Invalid Mutation: Invalid Child: "resource:platiolus_plant"!
+
+Mutation:
+	- Parents:
+		- Parent 1: resource:ferranium_plant
+		- Parent 2: resource:aurigold_plant
+	- Child: resource:platiolus_plant
+	- Chance: 0.25
+
+[17Apr2022 20:31:54.949] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricore]Invalid Mutation: Invalid Child: "thermal:hops_plant"!
+
+Mutation:
+	- Parents:
+		- Parent 1: thermal:spinach_plant
+		- Parent 2: thermal:green_beans_plant
+	- Child: thermal:hops_plant
+	- Chance: 0.5
+
+[17Apr2022 20:31:54.959] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft]Registered Mutations (87/89):
+[17Apr2022 20:31:54.959] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - thermal:corn_mutation: vanilla:dandelion_plant + vanilla:melon_plant = thermal:corn_plant
+[17Apr2022 20:31:54.959] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - resource:lapender_mutation: resource:ferranium_plant + vanilla:cornflower_plant = resource:lapender_plant
+[17Apr2022 20:31:54.959] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - vanilla:sea_pickle_mutation: vanilla:sea_grass_plant + vanilla:carrot_plant = vanilla:sea_pickle_plant
+[17Apr2022 20:31:54.959] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - botania:magenta_flower_mutation: botania:orange_flower_plant + botania:purple_flower_plant = botania:magenta_flower_plant
+[17Apr2022 20:31:54.959] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - vanilla:poppy_mutation: vanilla:sugarcane_plant + vanilla:melon_plant = vanilla:poppy_plant
+[17Apr2022 20:31:54.960] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - resource:petinia_mutation: resource:ferranium_plant + vanilla:wheat_plant = resource:petinia_plant
+[17Apr2022 20:31:54.960] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - thermal:bell_pepper_mutation: thermal:green_bean_plant + thermal:tomato_plant = thermal:bell_pepper_plant
+[17Apr2022 20:31:54.960] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - upgrade_aquatic:tongue_kelp_mutation: vanilla:kelp_plant + vanilla:poppy_plant = upgrade_aquatic:tongue_kelp_plant
+[17Apr2022 20:31:54.960] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - resource:aurigold_mutation: resource:ferranium_plant + resource:redstodendron_plant = resource:aurigold_plant
+[17Apr2022 20:31:54.960] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - vanilla:warped_fungus_mutation: vanilla:nether_wart_plant + vanilla:orchid_plant = vanilla:warped_fungus_plant
+[17Apr2022 20:31:54.960] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - botania:red_flower_mutation: botania:blue_flower_plant + botania:brown_flower_plant = botania:red_flower_plant
+[17Apr2022 20:31:54.960] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - botania:lime_flower_mutation: botania:blue_flower_plant + botania:yellow_flower_plant = botania:lime_flower_plant
+[17Apr2022 20:31:54.960] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - vanilla:allium_mutation: vanilla:poppy_plant + vanilla:orchid_plant = vanilla:allium_plant
+[17Apr2022 20:31:54.960] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - botania:orange_flower_mutation: botania:red_flower_plant + botania:yellow_flower_plant = botania:orange_flower_plant
+[17Apr2022 20:31:54.960] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - resource:nitorwart_mutation: resource:redstodendron_plant + vanilla:carrot_plant = resource:nitorwart_plant
+[17Apr2022 20:31:54.960] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - upgrade_aquatic:thorny_kelp_mutation: upgrade_aquatic:tongue_kelp_plant + upgrade_aquatic:polar_kelp_plant = upgrade_aquatic:thorny_kelp_plant
+[17Apr2022 20:31:54.960] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - upgrade_aquatic:purple_pickerelweed_mutation: vanilla:kelp_plant + vanilla:allium_plant = upgrade_aquatic:purple_pickerelweed_plant
+[17Apr2022 20:31:54.960] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - thermal:barley_mutation: vanilla:wheat_plant + thermal:rice_plant = thermal:barley_plant
+[17Apr2022 20:31:54.960] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - quark:glowshroom_mutation: vanilla:brown_mushroom_plant + vanilla:orchid_plant = quark:glowshroom_plant
+[17Apr2022 20:31:54.960] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - vanilla:orange_tulip_mutation: vanilla:daisy_plant + vanilla:orchid_plant = vanilla:orange_tulip_plant
+[17Apr2022 20:31:54.960] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - thermal:onion_mutation: vanilla:allium_plant + vanilla:potato_plant = thermal:onion_plant
+[17Apr2022 20:31:54.960] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - botania:black_flower_mutation: botania:magenta_flower_plant + botania:blue_flower_plant = botania:black_flower_plant
+[17Apr2022 20:31:54.960] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - thermal:spinach_mutation: thermal:radish_plant + thermal:sadiroot_plant = thermal:spinach_plant
+[17Apr2022 20:31:54.960] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - upgrade_aquatic:ochre_kelp_mutation: vanilla:kelp_plant + vanilla:dandelion_plant = upgrade_aquatic:ochre_kelp_plant
+[17Apr2022 20:31:54.960] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - botania:pink_flower_mutation: botania:purple_flower_plant + botania:cyan_flower_plant = botania:pink_flower_plant
+[17Apr2022 20:31:54.960] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - vanilla:sugarcane_mutation: vanilla:wheat_plant + vanilla:beet_root_plant = vanilla:sugarcane_plant
+[17Apr2022 20:31:54.960] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - resource:ferranium_mutation: vanilla:melon_plant + vanilla:pumpkin_plant = resource:ferranium_plant
+[17Apr2022 20:31:54.960] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - botania:blue_flower_mutation: botania:cyan_flower_plant + botania:white_flower_plant = botania:blue_flower_plant
+[17Apr2022 20:31:54.960] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - vanilla:pumpkin_mutation: vanilla:carrot_plant + vanilla:potato_plant = vanilla:pumpkin_plant
+[17Apr2022 20:31:54.960] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - thermal:coffee_mutation: thermal:corn_plant + thermal:peanut_plant = thermal:coffee_plant
+[17Apr2022 20:31:54.960] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - vanilla:crimson_fungus_mutation: vanilla:nether_wart_plant + vanilla:poppy_plant = vanilla:crimson_fungus_plant
+[17Apr2022 20:31:54.961] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - vanilla:cornflower_mutation: vanilla:orchid_plant + vanilla:lily_plant = vanilla:cornflower_plant
+[17Apr2022 20:31:54.961] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - thermal:tea_mutation: vanilla:wheat_plant + thermal:spinach_plant = thermal:tea_plant
+[17Apr2022 20:31:54.961] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - botania:green_flower_mutation: botania:blue_flower_plant + botania:yellow_flower_plant = botania:green_flower_plant
+[17Apr2022 20:31:54.961] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - buzzier_bees:buttercup_mutation: vanilla:daisy_plant + vanilla:poppy_plant = buzzier_bees:buttercup_plant
+[17Apr2022 20:31:54.961] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - thermal:eggplant_mutation: thermal:tomato_plant + thermal:spinach_plant = thermal:eggplant_plant
+[17Apr2022 20:31:54.961] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - thermal:frost_melon_mutation: vanilla:melon_plant + vanilla:lily_plant = thermal:frost_melon_plant
+[17Apr2022 20:31:54.961] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - thermal:strawberry_mutation: vanilla:sugarcane_plant + vanilla:potato_plant = thermal:strawberry_plant
+[17Apr2022 20:31:54.961] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - botania:yellow_flower_mutation: botania:white_flower_plant + vanilla:wheat_plant = botania:yellow_flower_plant
+[17Apr2022 20:31:54.961] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - thermal:tomato_mutation: vanilla:wheat_plant + vanilla:beet_root_plant = thermal:tomato_plant
+[17Apr2022 20:31:54.961] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - upgrade_aquatic:pink_searocket_mutation: vanilla:bluet_plant + vanilla:pink_tulip_plant = upgrade_aquatic:pink_searocket_plant
+[17Apr2022 20:31:54.961] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - thermal:peanut_mutation: thermal:corn_plant + thermal:barley_plant = thermal:peanut_plant
+[17Apr2022 20:31:54.961] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - resource:niccissus_mutation: resource:ferranium_plant + vanilla:white_tulip_plant = resource:niccissus_plant
+[17Apr2022 20:31:54.961] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - buzzier_bees:white_clover_mutation: vanilla:lily_plant + vanilla:white_tulip_plant = buzzier_bees:white_clover_plant
+[17Apr2022 20:31:54.961] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - botania:light_gray_flower_mutation: botania:gray_flower_plant + botania:white_flower_plant = botania:light_gray_flower_plant
+[17Apr2022 20:31:54.961] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - vanilla:kelp_mutation: vanilla:sea_grass_plant + vanilla:bamboo_plant = vanilla:kelp_plant
+[17Apr2022 20:31:54.961] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - thermal:sadiroot_mutation: thermal:radish_plant + vanilla:carrot_plant = thermal:sadiroot_plant
+[17Apr2022 20:31:54.961] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - resource:emeryllis_mutation: resource:aurigold_plant + resource:quartzanthemum_plant = resource:emeryllis_plant
+[17Apr2022 20:31:54.961] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - botania:cyan_flower_mutation: botania:gray_flower_plant + vanilla:melon_plant = botania:cyan_flower_plant
+[17Apr2022 20:31:54.961] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - upgrade_aquatic:blue_pickerelweed_mutation: vanilla:kelp_plant + vanilla:cornflower_plant = upgrade_aquatic:blue_pickerelweed_plant
+[17Apr2022 20:31:54.961] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - vanilla:dandelion_mutation: vanilla:pumpkin_plant + vanilla:wheat_plant = vanilla:dandelion_plant
+[17Apr2022 20:31:54.961] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - botania:purple_flower_mutation: botania:red_flower_plant + botania:blue_flower_plant = botania:purple_flower_plant
+[17Apr2022 20:31:54.961] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - resource:plombean_mutation: resource:ferranium_plant + vanilla:brown_mushroom_plant = resource:plombean_plant
+[17Apr2022 20:31:54.961] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - botania:brown_flower_mutation: botania:yellow_flower_plant + botania:white_flower_plant = botania:brown_flower_plant
+[17Apr2022 20:31:54.961] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - vanilla:pink_tulip_mutation: vanilla:allium_plant + vanilla:dandelion_plant = vanilla:pink_tulip_plant
+[17Apr2022 20:31:54.961] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - resource:cuprosia_mutation: resource:ferranium_plant + vanilla:carrot_plant = resource:cuprosia_plant
+[17Apr2022 20:31:54.961] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - vanilla:sea_grass_mutation: vanilla:wheat_plant + vanilla:bamboo_plant = vanilla:sea_grass_plant
+[17Apr2022 20:31:54.962] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - botania:white_flower_mutation: vanilla:wheat_plant + vanilla:melon_plant = botania:white_flower_plant
+[17Apr2022 20:31:54.962] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - resource:jaslumine_mutation: resource:ferranium_plant + vanilla:potato_plant = resource:jaslumine_plant
+[17Apr2022 20:31:54.962] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - vanilla:carrot_mutation: vanilla:wheat_plant + vanilla:potato_plant = vanilla:carrot_plant
+[17Apr2022 20:31:54.962] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - botania:gray_flower_mutation: botania:brown_flower_plant + vanilla:sugarcane_plant = botania:gray_flower_plant
+[17Apr2022 20:31:54.962] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - resource:redstodendron_mutation: resource:ferranium_plant + resource:lapender_plant = resource:redstodendron_plant
+[17Apr2022 20:31:54.962] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - vanilla:bluet_mutation: vanilla:dandelion_plant + vanilla:lily_plant = vanilla:bluet_plant
+[17Apr2022 20:31:54.962] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - vanilla:bamboo_mutation: vanilla:sugarcane_plant + vanilla:cactus_plant = vanilla:bamboo_plant
+[17Apr2022 20:31:54.962] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - vanilla:red_tulip_mutation: vanilla:poppy_plant + vanilla:allium_plant = vanilla:red_tulip_plant
+[17Apr2022 20:31:54.962] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - vanilla:brown_mushroom_mutation: vanilla:potato_plant + vanilla:carrot_plant = vanilla:brown_mushroom_plant
+[17Apr2022 20:31:54.962] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - thermal:radish_mutation: vanilla:carrot_plant + thermal:onion_plant = thermal:radish_plant
+[17Apr2022 20:31:54.962] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - buzzier_bees:pink_clover_mutation: vanilla:poppy_plant + buzzier_bees:white_clover_plant = buzzier_bees:pink_clover_plant
+[17Apr2022 20:31:54.962] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - thermal:green_bean_mutation: vanilla:lily_plant + vanilla:potato_plant = thermal:green_bean_plant
+[17Apr2022 20:31:54.962] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - vanilla:white_tulip_mutation: vanilla:daisy_plant + vanilla:dandelion_plant = vanilla:white_tulip_plant
+[17Apr2022 20:31:54.962] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - thermal:rice_mutation: vanilla:sea_grass_plant + vanilla:wheat_plant = thermal:rice_plant
+[17Apr2022 20:31:54.962] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - vanilla:sweet_berry_mutation: vanilla:sugarcane_plant + vanilla:beet_root_plant = vanilla:sweet_berry_plant
+[17Apr2022 20:31:54.962] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - vanilla:melon_mutation: vanilla:sugarcane_plant + vanilla:pumpkin_plant = vanilla:melon_plant
+[17Apr2022 20:31:54.962] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - vanilla:wither_rose_mutation: vanilla:cornflower_plant + vanilla:poppy_plant = vanilla:wither_rose_plant
+[17Apr2022 20:31:54.962] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - resource:quartzanthemum_mutation: resource:redstodendron_plant + resource:nitorwart_plant = resource:quartzanthemum_plant
+[17Apr2022 20:31:54.962] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - resource:diamahlia_mutation: resource:aurigold_plant + resource:nitorwart_plant = resource:diamahlia_plant
+[17Apr2022 20:31:54.962] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - vanilla:cactus_mutation: vanilla:sugarcane_plant + vanilla:potato_plant = vanilla:cactus_plant
+[17Apr2022 20:31:54.962] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - upgrade_aquatic:white_searocket_mutation: vanilla:bluet_plant + vanilla:white_tulip_plant = upgrade_aquatic:white_searocket_plant
+[17Apr2022 20:31:54.962] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - vanilla:lily_mutation: vanilla:white_tulip_plant + vanilla:daisy_plant = vanilla:lily_plant
+[17Apr2022 20:31:54.962] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - vanilla:orchid_mutation: vanilla:poppy_plant + vanilla:dandelion_plant = vanilla:orchid_plant
+[17Apr2022 20:31:54.962] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - immersiveengineering:hemp_mutation: vanilla:pumpkin_plant + vanilla:wheat_plant = immersiveengineering:hemp_plant
+[17Apr2022 20:31:54.962] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - resource:osmonium_mutation: resource:ferranium_plant + resource:quartzanthemum_plant = resource:osmonium_plant
+[17Apr2022 20:31:54.963] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - upgrade_aquatic:polar_kelp_mutation: vanilla:kelp_plant + upgrade_aquatic:ochre_kelp_plant = upgrade_aquatic:polar_kelp_plant
+[17Apr2022 20:31:54.963] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - botania:light_blue_flower_mutation: botania:blue_flower_plant + botania:white_flower_plant = botania:light_blue_flower_plant
+[17Apr2022 20:31:54.963] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - vanilla:daisy_mutation: vanilla:dandelion_plant + vanilla:orchid_plant = vanilla:daisy_plant
+[17Apr2022 20:31:54.963] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - resource:carbonation_mutation: resource:lapender_plant + vanilla:wither_rose_plant = resource:carbonation_plant
+[17Apr2022 20:31:54.963] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - vanilla:red_mushroom_mutation: vanilla:potato_plant + vanilla:carrot_plant = vanilla:red_mushroom_plant
+[17Apr2022 20:31:54.963] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft]Registering Fertilizers!
+[17Apr2022 20:31:54.964] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricore]Invalid Whitelist : The list does not contains valid plants!
+[17Apr2022 20:31:54.964] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricore]Invalid Whitelist : The list does not contains valid plants!
+[17Apr2022 20:31:54.964] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft]Registered Fertilizers (2/2):
+[17Apr2022 20:31:54.969] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - vanilla:bone_meal_fertilizer
+[17Apr2022 20:31:54.969] [Server thread/INFO] [com.infinityraider.infinitylib.utility.InfinityLogger/]: [agricraft][agricraft] - mysticalagriculture:mystical_fertilizer_fertilizer
+[17Apr2022 20:31:55.039] [Server thread/INFO] [FTB Utilities Backups/]: Backups folder - F:\BBlock S\backups
+[17Apr2022 20:31:55.041] [Server thread/INFO] [cyclopscore/]: Loading infobook /data/cyclopscore/info/test.xml
+[17Apr2022 20:31:55.101] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {SPAWN_DRAGON_SKELETON_I_CF=true, HYDRA_CAVE_CF=true, SPAWN_SEA_SERPENT_CF=true, SPAWN_STYMPHALIAN_BIRD_CF=true, SPAWN_WANDERING_CYCLOPS_CF=true, PIXIE_VILLAGE_CF=false, SPAWN_DEATH_WORM_CF=true, FIRE_DRAGON_CAVE_CF=true, SIREN_ISLAND_CF=true, MYRMEX_HIVE_DESERT_CF=true, SPAWN_HIPPOCAMPUS_CF=true, FIRE_DRAGON_ROOST_CF=true, MYRMEX_HIVE_JUNGLE_CF=true, GORGON_TEMPLE_CF=true, COPPER_ORE_CF=true, SILVER_ORE_CF=true, LIGHTNING_DRAGON_CAVE_CF=true, SPAWN_DRAGON_SKELETON_F_CF=true, AMETHYST_ORE_CF=true, SPAWN_DRAGON_SKELETON_L_CF=true, LIGHTNING_LILY_CF=true, MAUSOLEUM_CF=true, ICE_DRAGON_CAVE_CF=true, GRAVEYARD_CF=true, SAPPHIRE_ORE_CF=true, LIGHTNING_DRAGON_ROOST_CF=true, CYCLOPS_CAVE_CF=true, FROST_LILY_CF=true, FIRE_LILY_CF=true, ICE_DRAGON_ROOST_CF=true}
+[17Apr2022 20:31:55.101] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[17Apr2022 20:31:55.117] [Server thread/INFO] [integrateddynamics/]: Loading infobook /data/integrateddynamics/info/on_the_dynamics_of_integration.xml
+[17Apr2022 20:31:55.169] [Server thread/INFO] [endertanks/]: Loading EnderTank Data
+[17Apr2022 20:31:55.172] [Server thread/INFO] [endertanks/]: Finished Loading EnderTank Data
+[17Apr2022 20:31:55.205] [Server thread/INFO] [Astral Sorcery/]: Loaded PerkTree!
+[17Apr2022 20:31:55.209] [Server thread/INFO] [com.resourcefulbees.resourcefulbees.ResourcefulBees/]: Validating Mutations...
+[17Apr2022 20:31:55.227] [Server thread/INFO] [enderchests/]: Loading EnderChest Data
+[17Apr2022 20:31:55.228] [Server thread/INFO] [enderchests/]: Finished Loading EnderChest Data
+[17Apr2022 20:31:55.228] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Reading dimlet packages: 
+[17Apr2022 20:31:55.252] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Reading dimlet package: base.json, 38 valid dimlets found
+[17Apr2022 20:31:55.254] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Reading dimlet package: vanilla_blocks.json, 267 valid dimlets found
+[17Apr2022 20:31:55.255] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Reading dimlet package: vanilla_fluids.json, 2 valid dimlets found
+[17Apr2022 20:31:55.256] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Reading dimlet package: vanilla_biomes.json, 79 valid dimlets found
+[17Apr2022 20:31:55.257] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Reading dimlet package: rftools.json, 10 valid dimlets found
+[17Apr2022 20:31:55.257] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Reading dimlet package: appliedenergistics2.json, 0 valid dimlets found
+[17Apr2022 20:31:55.258] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Reading dimlet package: biggerreactors.json, 0 valid dimlets found
+[17Apr2022 20:31:55.259] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Reading dimlet package: bigreactors.json, 6 valid dimlets found
+[17Apr2022 20:31:55.260] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Reading dimlet package: botania.json, 121 valid dimlets found
+[17Apr2022 20:31:55.261] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Reading dimlet package: immersiveengineering.json, 23 valid dimlets found
+[17Apr2022 20:31:55.262] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Reading dimlet package: mekanism.json, 178 valid dimlets found
+[17Apr2022 20:31:55.263] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Reading dimlet package: powah.json, 10 valid dimlets found
+[17Apr2022 20:31:55.264] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Reading dimlet package: quark.json, 266 valid dimlets found
+[17Apr2022 20:31:55.265] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Reading dimlet package: tconstruct.json, 0 valid dimlets found
+[17Apr2022 20:31:55.266] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Reading dimlet package: thermal.json, 107 valid dimlets found
+[17Apr2022 20:31:55.267] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Reading dimlet package: biomesoplenty.json, 0 valid dimlets found
+[17Apr2022 20:31:55.271] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Reading dimlet package: emendatusenigmatica.json, 0 valid dimlets found
+[17Apr2022 20:31:55.275] [Server thread/INFO] [elementalcraft/]: Pure ore generation started.
+	Recipe Types: minecraft:smelting, minecraft:blasting, minecraft:campfire_cooking, mekanism:dissolution, mekanism:injecting, mekanism:purifying, mekanism:enriching, mekanism:crushing
+	Ores found: powah:uraninite_ore, powah:uraninite_ore_poor, powah:uraninite_ore_dense, betterendforge:ender_ore, betterendforge:amber_ore, betterendforge:thallasium_ore, boss_tools:moon_desh_ore, boss_tools:mars_diamond_ore, boss_tools:mars_iron_ore, boss_tools:moon_cheese_ore, boss_tools:mercury_iron_ore, boss_tools:mars_silicon_ore, boss_tools:mars_ice_shard_ore, boss_tools:moon_iron_ore, boss_tools:moon_glowstone_ore, boss_tools:venus_coal_ore, boss_tools:venus_diamond_ore, boss_tools:venus_gold_ore, cavesandcliffs:copper_ore, cavesandcliffs:deepslate_copper_ore, cavesandcliffs:raw_copper, mekanism:copper_ore, occultism:copper_ore, forestry:resource_ore_copper, iceandfire:copper_ore, create:copper_ore, thermal:copper_ore, immersiveengineering:ore_copper, mekanism:tin_ore, forestry:resource_ore_tin, thermal:tin_ore, mekanism:osmium_ore, mekanism:uranium_ore, bigreactors:yellorite_ore, immersiveengineering:ore_uranium, villager_inc__dynamism:uranium_ore_block, mekanism:fluorite_ore, mekanism:lead_ore, eidolon:lead_ore, thermal:lead_ore, immersiveengineering:ore_lead, mythicbotany:elementium_ore, mythicbotany:dragonstone_ore, mythicbotany:gold_ore, werewolves:silver_ore, occultism:silver_ore, iceandfire:silver_ore, thermal:silver_ore, immersiveengineering:ore_silver, occultism:iesnium_ore, byg:ametrine_ore, byg:anthracite_ore, byg:budding_ametrine_ore, byg:cryptic_redstone_ore, byg:lignite_ore, byg:pendorite_ore, byg:blue_nether_gold_ore, byg:blue_nether_quartz_ore, byg:brimstone_nether_gold_ore, byg:brimstone_nether_quartz_ore, forestry:resource_ore_apatite, thermal:apatite_ore, astralsorcery:starmetal_ore, astralsorcery:aquamarine_sand_ore, astralsorcery:rock_crystal_ore, iceandfire:sapphire_ore, iceandfire:amythest_ore, ars_nouveau:arcane_ore, undergarden:cloggrum_ore, undergarden:froststeel_ore, undergarden:utherium_ore, undergarden:regalium_ore, undergarden:otherside_utherium_ore, elementalcraft:crystalore, create:zinc_ore, mekanismmatter:naquadah_ore, rftoolsbase:dimensionalshard_end, rftoolsbase:dimensionalshard_nether, rftoolsbase:dimensionalshard_overworld, undergarden:coal_ore, minecraft:coal_ore, atum:coal_ore, undergarden:diamond_ore, minecraft:diamond_ore, atum:diamond_ore, minecraft:emerald_ore, atum:emerald_ore, cavesandcliffs:deepslate_gold_ore, cavesandcliffs:raw_gold, minecraft:gold_ore, minecraft:nether_gold_ore, undergarden:gold_ore, atum:gold_ore, cavesandcliffs:deepslate_iron_ore, cavesandcliffs:raw_iron, undergarden:iron_ore, minecraft:iron_ore, atum:iron_ore, minecraft:lapis_ore, atum:lapis_ore, minecraft:redstone_ore, atum:redstone_ore, minecraft:nether_quartz_ore, minecraft:ancient_debris, atum:nebu_ore, thermal:cinnabar_ore, thermal:nickel_ore, immersiveengineering:ore_nickel, thermal:niter_ore, thermal:ruby_ore, thermal:sapphire_ore, thermal:sulfur_ore, draconicevolution:end_draconium_ore, draconicevolution:nether_draconium_ore, draconicevolution:overworld_draconium_ore, immersiveengineering:ore_aluminum, mysticalagriculture:inferium_ore, mysticalagriculture:prosperity_ore, mysticalagriculture:soulium_ore, quark:biotite_ore
+[17Apr2022 20:31:55.318] [Server thread/INFO] [elementalcraft/]: Pure ore recipe injection
+[17Apr2022 20:31:55.322] [Server thread/INFO] [elementalcraft/]: Pure ore generation ended
+[17Apr2022 20:31:59.320] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3947ms or 78 ticks behind
+[17Apr2022 20:32:07.532] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[17Apr2022 20:32:07.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[17Apr2022 20:32:07.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[17Apr2022 20:32:07.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[17Apr2022 20:32:07.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17Apr2022 20:32:08.008] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-275, y=60, z=276} but found not block entity block Block{minecraft:air} at location
+[17Apr2022 20:32:08.009] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-275, y=60, z=276}
+[17Apr2022 20:32:08.009] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-274, y=72, z=283} but found not block entity block Block{minecraft:crafting_table} at location
+[17Apr2022 20:32:08.009] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:crafting_table} but failed at location BlockPos{x=-274, y=72, z=283}
+[17Apr2022 20:32:08.009] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-278, y=60, z=273} but found not block entity block Block{minecraft:air} at location
+[17Apr2022 20:32:08.009] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-278, y=60, z=273}
+[17Apr2022 20:32:08.009] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-277, y=72, z=280} but found not block entity block Block{minecraft:air} at location
+[17Apr2022 20:32:08.009] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-277, y=72, z=280}
+[17Apr2022 20:32:08.017] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-107, y=66, z=277} but found not block entity block Block{minecraft:air} at location
+[17Apr2022 20:32:08.017] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-107, y=66, z=277}
+[17Apr2022 20:32:08.017] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-104, y=66, z=274} but found not block entity block Block{minecraft:air} at location
+[17Apr2022 20:32:08.017] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-104, y=66, z=274}
+[17Apr2022 20:32:08.069] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-447, y=73, z=103} but found not block entity block Block{minecraft:air} at location
+[17Apr2022 20:32:08.069] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-447, y=73, z=103}
+[17Apr2022 20:32:08.069] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-447, y=73, z=102} but found not block entity block Block{minecraft:air} at location
+[17Apr2022 20:32:08.069] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-447, y=73, z=102}
+[17Apr2022 20:32:08.073] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-446, y=66, z=182} but found not block entity block Block{minecraft:gray_terracotta} at location
+[17Apr2022 20:32:08.073] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:gray_terracotta} but failed at location BlockPos{x=-446, y=66, z=182}
+[17Apr2022 20:32:08.073] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-440, y=66, z=176} but found not block entity block Block{minecraft:gray_terracotta} at location
+[17Apr2022 20:32:08.073] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:gray_terracotta} but failed at location BlockPos{x=-440, y=66, z=176}
+[17Apr2022 20:32:08.073] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-443, y=66, z=179} but found not block entity block Block{minecraft:gray_terracotta} at location
+[17Apr2022 20:32:08.073] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:gray_terracotta} but failed at location BlockPos{x=-443, y=66, z=179}
+[17Apr2022 20:32:09.237] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17Apr2022 20:32:09.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17Apr2022 20:32:09.259] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17Apr2022 20:32:09.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17Apr2022 20:32:09.261] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17Apr2022 20:32:09.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mythicbotany:alfheim
+[17Apr2022 20:32:09.263] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (alfheim): All chunks are saved
+[17Apr2022 20:32:09.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/atum:atum
+[17Apr2022 20:32:09.264] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (atum): All chunks are saved
+[17Apr2022 20:32:09.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/compactmachines:compact_world
+[17Apr2022 20:32:09.266] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (compact_world): All chunks are saved
+[17Apr2022 20:32:09.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/cursed_realm_remastered:cursed_realm
+[17Apr2022 20:32:09.267] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (cursed_realm): All chunks are saved
+[17Apr2022 20:32:09.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/bloodmagic:dungeon
+[17Apr2022 20:32:09.268] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (dungeon): All chunks are saved
+[17Apr2022 20:32:09.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/draconicadditions:harnessvoid
+[17Apr2022 20:32:09.269] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (harnessvoid): All chunks are saved
+[17Apr2022 20:32:09.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/lostcities:lostcity
+[17Apr2022 20:32:09.270] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[17Apr2022 20:32:09.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boss_tools:mars
+[17Apr2022 20:32:09.271] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[17Apr2022 20:32:09.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boss_tools:mars_orbit
+[17Apr2022 20:32:09.272] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[17Apr2022 20:32:09.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boss_tools:mercury
+[17Apr2022 20:32:09.272] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[17Apr2022 20:32:09.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boss_tools:mercury_orbit
+[17Apr2022 20:32:09.273] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[17Apr2022 20:32:09.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/jamd:mining
+[17Apr2022 20:32:09.274] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (mining): All chunks are saved
+[17Apr2022 20:32:09.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boss_tools:moon
+[17Apr2022 20:32:09.275] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[17Apr2022 20:32:09.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/tardis:moon
+[17Apr2022 20:32:09.276] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[17Apr2022 20:32:09.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boss_tools:moon_orbit
+[17Apr2022 20:32:09.277] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[17Apr2022 20:32:09.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boss_tools:overworld_orbit
+[17Apr2022 20:32:09.278] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (overworld_orbit): All chunks are saved
+[17Apr2022 20:32:09.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/quantumquarryplus:quantum_quarry_dim
+[17Apr2022 20:32:09.312] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (quantum_quarry_dim): All chunks are saved
+[17Apr2022 20:32:09.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/quantumquarryplus:quantum_quarry_dim_end
+[17Apr2022 20:32:09.332] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (quantum_quarry_dim_end): All chunks are saved
+[17Apr2022 20:32:09.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/quantumquarryplus:quantum_quarry_dim_nether
+[17Apr2022 20:32:09.334] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (quantum_quarry_dim_nether): All chunks are saved
+[17Apr2022 20:32:09.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mahoutsukai:reality_marble
+[17Apr2022 20:32:09.335] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (reality_marble): All chunks are saved
+[17Apr2022 20:32:09.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/tardis:space
+[17Apr2022 20:32:09.336] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (space): All chunks are saved
+[17Apr2022 20:32:09.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_afterlight:the_afterlight
+[17Apr2022 20:32:09.337] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (the_afterlight): All chunks are saved
+[17Apr2022 20:32:09.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/undergarden:undergarden
+[17Apr2022 20:32:09.338] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (undergarden): All chunks are saved
+[17Apr2022 20:32:09.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boss_tools:venus
+[17Apr2022 20:32:09.339] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[17Apr2022 20:32:09.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boss_tools:venus_orbit
+[17Apr2022 20:32:09.340] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[17Apr2022 20:32:09.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/tardis:vortex
+[17Apr2022 20:32:09.341] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (vortex): All chunks are saved
+[17Apr2022 20:32:09.461] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17Apr2022 20:32:09.654] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17Apr2022 20:32:09.676] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17Apr2022 20:32:09.676] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (alfheim): All chunks are saved
+[17Apr2022 20:32:09.677] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (atum): All chunks are saved
+[17Apr2022 20:32:09.677] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (compact_world): All chunks are saved
+[17Apr2022 20:32:09.677] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (cursed_realm): All chunks are saved
+[17Apr2022 20:32:09.677] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (dungeon): All chunks are saved
+[17Apr2022 20:32:09.678] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (harnessvoid): All chunks are saved
+[17Apr2022 20:32:09.678] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[17Apr2022 20:32:09.678] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[17Apr2022 20:32:09.678] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[17Apr2022 20:32:09.678] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[17Apr2022 20:32:09.678] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[17Apr2022 20:32:09.679] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (mining): All chunks are saved
+[17Apr2022 20:32:09.679] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[17Apr2022 20:32:09.679] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[17Apr2022 20:32:09.679] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[17Apr2022 20:32:09.679] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (overworld_orbit): All chunks are saved
+[17Apr2022 20:32:09.680] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (quantum_quarry_dim): All chunks are saved
+[17Apr2022 20:32:09.696] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (quantum_quarry_dim_end): All chunks are saved
+[17Apr2022 20:32:09.724] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (quantum_quarry_dim_nether): All chunks are saved
+[17Apr2022 20:32:09.724] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (reality_marble): All chunks are saved
+[17Apr2022 20:32:09.725] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (space): All chunks are saved
+[17Apr2022 20:32:09.725] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (the_afterlight): All chunks are saved
+[17Apr2022 20:32:09.725] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (undergarden): All chunks are saved
+[17Apr2022 20:32:09.725] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[17Apr2022 20:32:09.726] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[17Apr2022 20:32:09.726] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (vortex): All chunks are saved
+[17Apr2022 20:32:09.739] [Server thread/INFO] [endertanks/]: Unloading EnderTank Data
+[17Apr2022 20:32:09.739] [Server thread/INFO] [endertanks/]: Finished Unloading EnderTank Data
+[17Apr2022 20:32:09.739] [Server thread/INFO] [enderchests/]: Unloading EnderChest Data
+[17Apr2022 20:32:09.739] [Server thread/INFO] [enderchests/]: Finished Unloading EnderChest Data
+[17Apr2022 20:32:09.739] [Server thread/INFO] [FluxNetworks/]: FluxNetworkData has been unloaded

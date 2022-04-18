@@ -13,10 +13,13 @@
 #255 byg:redwood_mountains
 #7E9 byg:redwood_tropics
 #5FF minecraft:river
+#180 byg:seasonal_birch_forest_hills
 #3A8 byg:seasonal_deciduous_forest
 #23E byg:seasonal_forest
 #169 minecraft:taiga
 #6BC byg:tropical_rainforest
 #30F byg:tropical_rainforest_hills
+#473 byg:vibrant_swamplands
+#356 werewolves:werewolf_heaven
 #1C9 byg:wooded_grassland_plateau
 #452 minecraft:wooded_hills

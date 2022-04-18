@@ -145,3 +145,9 @@ Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to
 [17:16:46] [main/INFO] [WaypointStore] Loaded 0 waypoints from F:\Minecraft\Instances\Alkahestry\journeymap\data\mp\Minecraft~Server_9398f003~35ba~4c48~90a8~65509dc4e355\waypoints
 [17:16:46] [main/INFO] [JourneymapClient] Mapping started in F:\Minecraft\Instances\Alkahestry\journeymap\data\mp\Minecraft~Server_9398f003~35ba~4c48~90a8~65509dc4e355\overworld. Memory: 14200MB total, 9040MB free 
 [17:17:28] [main/INFO] [ChatLog] 
+[20:02:02] [main/INFO] [StatTimer] TileDrawStep.updateRegionTexture hit max count, 1000000
+[20:02:02] [main/INFO] [StatTimer] TileDrawStep.updateScaledTexture hit max count, 1000000
+[20:02:03] [main/INFO] [StatTimer] TileDrawStep.draw(high) hit max count, 1000000
+[20:20:15] [main/INFO] [JourneymapClient] Mapping halted in F:\Minecraft\Instances\Alkahestry\journeymap\data\mp\Minecraft~Server_9398f003~35ba~4c48~90a8~65509dc4e355\minecraft:overworld
+[20:20:35] [main/INFO] [MappingMonitorTask] World ID has been reset.
+[20:20:35] [main/INFO] [JourneymapClient] World UID is set to: null

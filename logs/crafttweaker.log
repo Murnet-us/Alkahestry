@@ -1,5 +1,5 @@
-[17:09:53.733][CONSTRUCT][CLIENT][INFO] Starting building internal Registries
-[17:09:55.901][CONSTRUCT][CLIENT][INFO] The following mods have explicit CraftTweaker support:
+[20:29:28.600][CONSTRUCT][CLIENT][INFO] Starting building internal Registries
+[20:29:30.708][CONSTRUCT][CLIENT][INFO] The following mods have explicit CraftTweaker support:
 'ars_nouveau' at version '1.24.22'
 'astralsorcery' at version '1.16.5-1.13.12'
 'atum' at version '1.16.5-2.2.10'
@@ -21,13 +21,15 @@
 'projecte' at version 'PE1.0.2'
 'thermal' at version '1.4.3.10'
 'thermal_foundation' at version '1.4.3.10'
-[17:09:57.870][CONSTRUCT][CLIENT][INFO] Completed building internal Registries
-[17:10:32.671][LOAD_REGISTRIES][CLIENT][INFO] Started loading Scripts for Loader 'mekanismcontent'!
-[17:10:33.207][LOAD_REGISTRIES][CLIENT][INFO] Finished loading Scripts!
-[17:10:33.207][LOAD_REGISTRIES][CLIENT][INFO] Registering 0 custom gases.
-[17:10:33.232][LOAD_REGISTRIES][CLIENT][INFO] Registering 0 custom infuse types.
-[17:10:33.237][LOAD_REGISTRIES][CLIENT][INFO] Registering 0 custom pigments.
-[17:10:33.238][LOAD_REGISTRIES][CLIENT][INFO] Registering 0 custom robit skins.
-[17:10:33.239][LOAD_REGISTRIES][CLIENT][INFO] Registering 0 custom slurries.
-[17:11:21.449][COMMON_SETUP][CLIENT][INFO] Started loading Scripts for Loader 'setupCommon'!
-[17:11:21.557][COMMON_SETUP][CLIENT][INFO] Finished loading Scripts!
+[20:29:32.364][CONSTRUCT][CLIENT][INFO] Completed building internal Registries
+[20:30:02.883][LOAD_REGISTRIES][CLIENT][INFO] Started loading Scripts for Loader 'mekanismcontent'!
+[20:30:03.451][LOAD_REGISTRIES][CLIENT][INFO] Finished loading Scripts!
+[20:30:03.451][LOAD_REGISTRIES][CLIENT][INFO] Registering 0 custom gases.
+[20:30:03.470][LOAD_REGISTRIES][CLIENT][INFO] Registering 0 custom infuse types.
+[20:30:03.477][LOAD_REGISTRIES][CLIENT][INFO] Registering 0 custom pigments.
+[20:30:03.480][LOAD_REGISTRIES][CLIENT][INFO] Registering 0 custom robit skins.
+[20:30:03.482][LOAD_REGISTRIES][CLIENT][INFO] Registering 0 custom slurries.
+[20:30:09.473][COMMON_SETUP][CLIENT][INFO] Started loading Scripts for Loader 'setupCommon'!
+[20:30:09.615][COMMON_SETUP][CLIENT][INFO] Finished loading Scripts!
+[20:30:46.970][DONE][CLIENT][INFO] Started loading Scripts for Loader 'crafttweaker'!
+[20:30:47.025][DONE][CLIENT][INFO] Finished loading Scripts!

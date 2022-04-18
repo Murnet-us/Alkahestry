@@ -167,6 +167,10 @@
     {
       "item": "patchouli:guide_book{\"patchouli:book\":\"apotheosis:apoth_chronicle\"}",
       "emc": 256
+    },
+    {
+      "item": "mekanism:steel_casing",
+      "emc": 0
     }
   ]
 }
