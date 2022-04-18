@@ -11,7 +11,8 @@ onEvent('recipes', event => {
 	// Change recipes here
 	
 	//Steel Machine Frame
-	
+	event.remove({id: 'mekanism:steel_casing'})
+	event.recipes.mekanismMetallurgicInfusing('mekanism:steel_casing', 'advgenerators:iron_frame', 'mekanism:carbon', 80)
 	
 	//Metallurgic Infuser
 	
@@ -23,7 +24,7 @@ onEvent('recipes', event => {
 	
 	
 	//Energized Smelter
-)
+})
 
 onEvent('item.tags', event => {
 	// Get the #forge:cobblestone tag collection and add Diamond Ore to it

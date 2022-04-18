@@ -1,0 +1,172 @@
+{
+  "entries": [
+    {
+      "item": "#forge:stone",
+      "emc": 1
+    },
+    {
+      "item": "#forge:cobblestone",
+      "emc": 1
+    },
+    {
+      "item": "forestry:apatite",
+      "emc": 256
+    },
+    {
+      "item": "quark:cobbled_deepslate",
+      "emc": 1
+    },
+    {
+      "item": "cavesandcliffs:cobbled_deepslate",
+      "emc": 1
+    },
+    {
+      "item": "cavesandcliffs:amethyst_block",
+      "emc": 1
+    },
+    {
+      "item": "quark:tallow",
+      "emc": 32
+    },
+    {
+      "item": "eidolon:tattered_cloth",
+      "emc": 64
+    },
+    {
+      "item": "ars_nouveau:wilden_wing",
+      "emc": 128
+    },
+    {
+      "item": "quark:root_item",
+      "emc": 16
+    },
+    {
+      "item": "xreliquary:catalyzing_gland",
+      "emc": 640
+    },
+    {
+      "item": "#forge:scales/dragon",
+      "emc": 8192
+    },
+    {
+      "item": "#forge:bones/dragon",
+      "emc": 4096
+    },
+    {
+      "item": "#minecraft:small_flowers",
+      "emc": 16
+    },
+    {
+      "item": "#minecraft:tall_flowers",
+      "emc": 32
+    },
+    {
+      "item": "#forge:dyes",
+      "emc": 16
+    },
+    {
+      "item": "byg:arisian_bloom_branch",
+      "emc": 16
+    },
+    {
+      "item": "xreliquary:squid_beak",
+      "emc": 640
+    },
+    {
+      "item": "minecraft:magma_cream",
+      "emc": 420
+    },
+    {
+      "item": "minecraft:glass",
+      "emc": 1
+    },
+    {
+      "item": "#forge:sand",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:charcoal",
+      "emc": 128
+    },
+    {
+      "item": "cavesandcliffs:tuff",
+      "emc": 1
+    },
+    {
+      "item": "chisel:limestone/raw",
+      "emc": 1
+    },
+    {
+      "item": "xreliquary:rib_bone",
+      "emc": 640
+    },
+    {
+      "item": "xreliquary:zombie_heart",
+      "emc": 640
+    },
+    {
+      "item": "minecraft:paper",
+      "emc": 32
+    },
+    {
+      "item": "ars_nouveau:wilden_horn",
+      "emc": 640
+    },
+    {
+      "item": "integrateddynamics:crystalized_menril_block",
+      "emc": 32
+    },
+    {
+      "item": "integratedterminals:menril_glass",
+      "emc": 33
+    },
+    {
+      "item": "ftbic:rubber",
+      "emc": 32
+    },
+    {
+      "item": "resourcefulbees:wax",
+      "emc": 64
+    },
+    {
+      "item": "xreliquary:molten_core",
+      "emc": 640
+    },
+    {
+      "item": "xreliquary:chelicerae",
+      "emc": 640
+    },
+    {
+      "item": "tombstone:grave_dust",
+      "emc": 128
+    },
+    {
+      "item": "werewolves:liver",
+      "emc": 320
+    },
+    {
+      "item": "werewolves:cracked_bone",
+      "emc": 320
+    },
+    {
+      "item": "#elementalcraft:shards",
+      "emc": 128
+    },
+    {
+      "item": "patchouli:guide_book{\"patchouli:book\":\"the_afterlight:afterlight_tome\"}",
+      "emc": 256
+    },
+    {
+      "item": "forestry:foresters_manual",
+      "emc": 256
+    },
+    {
+      "item": "ars_nouveau:worn_notebook",
+      "emc": 256
+    },
+    {
+      "item": "patchouli:guide_book{\"patchouli:book\":\"apotheosis:apoth_chronicle\"}",
+      "emc": 256
+    }
+  ]
+}

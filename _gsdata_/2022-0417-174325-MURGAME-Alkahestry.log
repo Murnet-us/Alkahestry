@@ -1,0 +1,16 @@
+2022-04-17 17:43:26: -- Analysis Started by On File Change First Full Analyze Upon Folder Connect
+2022-04-17 17:43:26: /logs/crafttweaker.log: Conflict: New files that differ
+2022-04-17 17:43:26: /logs/FP-Latest.log: Conflict: New files that differ
+2022-04-17 17:43:26: /logs/latest.log: Conflict: New files that differ
+2022-04-17 17:43:26: Changes: 4, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 137
+2022-04-17 17:43:26: Left to Right: Copy File: 3 
+2022-04-17 17:43:26: Right to Left: Copy File: 1 
+2022-04-17 17:43:26: == Sync Started by On File Change First Full Analyze Upon Folder Connect
+2022-04-17 17:43:26: Copy Over 'F:/Minecraft/Instances/Alkahestry/logs/crafttweaker.log' -> 'F:/BBlock S/logs/crafttweaker.log' (1,796)
+- ERROR: Cannot move destination file to history folder: F:/BBlock S/_gsdata_/_saved_/logs/crafttweaker.log: The process cannot access the file because it is being used by another process.  (error 32)
+2022-04-17 17:43:26: Copy Over 'F:/Minecraft/Instances/Alkahestry/logs/FP-Latest.log' -> 'F:/BBlock S/logs/FP-Latest.log' (3,505)
+- ERROR: Cannot move destination file to history folder: F:/BBlock S/_gsdata_/_saved_/logs/FP-Latest.log: The process cannot access the file because it is being used by another process.  (error 32)
+2022-04-17 17:43:26: Copy Over 'F:/Minecraft/Instances/Alkahestry/logs/latest.log' -> 'F:/BBlock S/logs/latest.log' (3,365,025)
+- ERROR: Cannot move destination file to history folder: F:/BBlock S/_gsdata_/_saved_/logs/latest.log: The process cannot access the file because it is being used by another process.  (error 32)
+2022-04-17 17:43:26: Copy Over 'F:/BBlock S/kubejs/server_scripts/customRecipes/projectexpansion.js' -> 'F:/Minecraft/Instances/Alkahestry/kubejs/server_scripts/customRecipes/projectexpansion.js' (1,852)
+2022-04-17 17:43:26: == Sync Complete. Time: 00:00:00, Speed: 0.00/s, OK: 1, Errors: 3

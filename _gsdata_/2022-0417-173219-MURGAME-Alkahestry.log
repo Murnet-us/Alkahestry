@@ -1,0 +1,40 @@
+2022-04-17 17:32:19: -- Analysis Started by User Command
+2022-04-17 17:32:19: L: State file does not exist: F:/Minecraft/Instances/Alkahestry/_gsdata_/_file_state_v4._gs
+2022-04-17 17:32:19: R: State file does not exist: F:/BBlock S/_gsdata_/_file_state_v4._gs
+2022-04-17 17:32:19: /kubejs/server_scripts/customRecipes/myst_ag.js: Conflict: New files that differ
+2022-04-17 17:32:19: /kubejs/server_scripts/customRecipes/projectexpansion.js: Conflict: New files that differ
+2022-04-17 17:32:19: /logs/2022-04-09-1.log.gz: Conflict: New files that differ
+2022-04-17 17:32:19: /logs/2022-04-09-2.log.gz: Conflict: New files that differ
+2022-04-17 17:32:19: /logs/2022-04-09-3.log.gz: Conflict: New files that differ
+2022-04-17 17:32:19: /logs/2022-04-09-4.log.gz: Conflict: New files that differ
+2022-04-17 17:32:19: /logs/2022-04-09-5.log.gz: Conflict: New files that differ
+2022-04-17 17:32:19: /logs/2022-04-09-6.log.gz: Conflict: New files that differ
+2022-04-17 17:32:19: /logs/2022-04-10-1.log.gz: Conflict: New files that differ
+2022-04-17 17:32:19: /logs/2022-04-10-2.log.gz: Conflict: New files that differ
+2022-04-17 17:32:19: /logs/2022-04-10-3.log.gz: Conflict: New files that differ
+2022-04-17 17:32:19: /logs/2022-04-10-4.log.gz: Conflict: New files that differ
+2022-04-17 17:32:19: /logs/2022-04-10-5.log.gz: Conflict: New files that differ
+2022-04-17 17:32:19: /logs/2022-04-11-1.log.gz: Conflict: New files that differ
+2022-04-17 17:32:19: /logs/2022-04-11-2.log.gz: Conflict: New files that differ
+2022-04-17 17:32:19: /logs/2022-04-11-3.log.gz: Conflict: New files that differ
+2022-04-17 17:32:19: /logs/2022-04-11-4.log.gz: Conflict: New files that differ
+2022-04-17 17:32:19: /logs/2022-04-11-5.log.gz: Conflict: New files that differ
+2022-04-17 17:32:19: /logs/2022-04-11-6.log.gz: Conflict: New files that differ
+2022-04-17 17:32:19: /logs/2022-04-15-1.log.gz: Conflict: New files that differ
+2022-04-17 17:32:19: /logs/2022-04-15-2.log.gz: Conflict: New files that differ
+2022-04-17 17:32:19: /logs/2022-04-16-1.log.gz: Conflict: New files that differ
+2022-04-17 17:32:19: /logs/2022-04-16-2.log.gz: Conflict: New files that differ
+2022-04-17 17:32:19: /logs/2022-04-17-1.log.gz: Conflict: New files that differ
+2022-04-17 17:32:19: /logs/2022-04-17-2.log.gz: Conflict: New files that differ
+2022-04-17 17:32:19: /logs/2022-04-17-3.log.gz: Conflict: New files that differ
+2022-04-17 17:32:19: /logs/crafttweaker.log: Conflict: New files that differ
+2022-04-17 17:32:19: /logs/FP-Latest.log: Conflict: New files that differ
+2022-04-17 17:32:19: /logs/kubejs/client.txt: Conflict: New files that differ
+2022-04-17 17:32:19: /logs/kubejs/server.txt: Conflict: New files that differ
+2022-04-17 17:32:19: /logs/kubejs/startup.txt: Conflict: New files that differ
+2022-04-17 17:32:19: /logs/latest.log: Conflict: New files that differ
+2022-04-17 17:32:19: Analyze has finished with Conflicts. Resolve Conflicts by selecting the correct sync direction, then click Sync
+2022-04-17 17:32:19: Changes: 56, Conflicts: 32, CopyTime: 0, FixState: 42, Errors: 0, All: 137
+2022-04-17 17:32:19: Left to Right: Copy File: 14 
+2022-04-17 17:32:19: Right to Left: Copy File: 10 
+2022-04-17 17:32:19: -- Analysis Complete. Time 00:00:00, Speed: Many files/s

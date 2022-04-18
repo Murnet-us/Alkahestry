@@ -11,7 +11,7 @@ onEvent('recipes', event => {
 	// Change recipes here
 	
     //Prudentium Essence
-    event.remove({output: "mysticalagriculture:prudentium_essence", input: "mysticalagriculture:inferium_essence"})
+    event.remove({id: "mysticalagriculture:prudentium_essence"})
 	event.custom({
         "type": "extendedcrafting:shaped_table",
         "pattern": [
@@ -33,7 +33,7 @@ onEvent('recipes', event => {
     })
 
     //Tertium Essence
-    event.remove({output: "mysticalagriculture:tertium_essnence", input: "mysticalagriculture:prudentium_essence"})
+    event.remove({id: "mysticalagriculture:tertium_essnence"})
     event.custom({
         "type": "extendedcrafting:shaped_table",
         "pattern": [
@@ -60,7 +60,7 @@ onEvent('recipes', event => {
     })
 
     //Imperium Essence
-    event.remove({output: "mysticalagriculture:imperium_essence", input: "mysticalagriculture:tertium_essence"})
+    event.remove({id: "mysticalagriculture:imperium_essence"})
     event.custom({
         "type": "extendedcrafting:shaped_table",
         "pattern": [
@@ -92,7 +92,7 @@ onEvent('recipes', event => {
     })
 	
     //Supremium Essence
-    event.remove({output:"mysticalagriculture:supremium_essence", input: "mysticalagriculture:imperium_essence"})
+    event.remove({id:"mysticalagriculture:supremium_essence"})
     event.custom({
         type: "extendedcrafting:shaped_table",
         pattern: [
@@ -129,7 +129,7 @@ onEvent('recipes', event => {
     })
 
     //Insanium Essence
-    event.remove({output: "mysticalagradditions:insanium_essence", input: "mysticalagriculture:supremium_essence"})
+    event.remove({id: "mysticalagradditions:insanium_essence"})
     event.custom({
         type: "extendedcrafting:shaped_table",
         pattern:[
@@ -154,6 +154,43 @@ onEvent('recipes', event => {
         result: {
             "item": "mysticalagradditions:insanium_essence"
         }
+    })
+
+    //Creative Essence
+    event.custom({
+        type: "extendedcrafting:shaped_table",
+        pattern:[
+            "  X X  XX",
+            "  XYYXXYX",
+            " XYZYYZYX",
+            "XYZWWWZYX",
+            "XYZWVWZYX",
+            "XYZWWWZYX",
+            "XYZZZZZYX",
+            "XYYYYYYYX",
+            "XXXXXXXXX"
+        ],
+        key:{
+            X: {
+                item: "mysticalagradditions:insanium_essence"
+            },
+            Y: {
+                item: "boss_tools:mercury_stone"
+            },
+            Z: {
+                item: "bigreactors:ludicrite_block"
+            },
+            W: {
+                item: "cursed_realm_remastered:soul_block"
+            },
+            V: {
+                tag: "mysticalagriculture:infusion_crystals"
+            }
+        },
+        result: {
+            item: "mysticalagradditions:creative_essence"
+        }
+        
     })
 
 })

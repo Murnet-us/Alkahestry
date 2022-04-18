@@ -10,6 +10,7 @@
 #5A3 byg:grove
 #1C1 cavesandcliffs:lush_caves
 #3DC minecraft:plains
+#255 byg:redwood_mountains
 #7E9 byg:redwood_tropics
 #5FF minecraft:river
 #3A8 byg:seasonal_deciduous_forest

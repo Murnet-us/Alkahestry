@@ -11,7 +11,7 @@ onEvent('recipes', event => {
 	// Change recipes here
 	
     //Transmutation Interface
-    event.remove({output: "projectexpansion:transmutation interface"})
+    event.remove({id: "projectexpansion:transmutation_interface"})
     event.custom({
         type: "extendedcrafting:shaped_table",
         pattern: [
@@ -42,7 +42,7 @@ onEvent('recipes', event => {
     })
 
     //Basic EMC Link
-    event.remove({output: "projectexpansion:basic_emc_link"})
+    event.remove({id: "projectexpansion:basic_emc_link"})
     event.shaped('projectexpansion:basic_emc_link', [
         'ABC',
         'DED',
