@@ -12,15 +12,7 @@ onEvent('recipes', event => {
 	
 	
 
-	event.shaped('projecte:transmutation_table', [
-		'XYX',
-		'YZY',
-		'XYX'
-	], {
-		X: 'minecraft:cobblestone',
-		Y: '#forge:stone',
-		Z: 'minecraft:crafting_table'
-	})
+	
 })
 
 onEvent('item.tags', event => {

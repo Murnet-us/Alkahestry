@@ -1,5 +1,5 @@
-[08:29:46.677][CONSTRUCT][CLIENT][INFO] Starting building internal Registries
-[08:29:48.550][CONSTRUCT][CLIENT][INFO] The following mods have explicit CraftTweaker support:
+[09:35:22.776][CONSTRUCT][CLIENT][INFO] Starting building internal Registries
+[09:35:24.962][CONSTRUCT][CLIENT][INFO] The following mods have explicit CraftTweaker support:
 'ars_nouveau' at version '1.24.23'
 'astralsorcery' at version '1.16.5-1.13.12'
 'atum' at version '1.16.5-2.2.10'
@@ -21,4 +21,13 @@
 'projecte' at version 'PE1.0.2'
 'thermal' at version '1.4.5.11'
 'thermal_foundation' at version '1.4.5.11'
-[08:29:50.311][CONSTRUCT][CLIENT][INFO] Completed building internal Registries
+[09:35:26.560][CONSTRUCT][CLIENT][INFO] Completed building internal Registries
+[09:35:56.853][LOAD_REGISTRIES][CLIENT][INFO] Started loading Scripts for Loader 'mekanismcontent'!
+[09:35:57.393][LOAD_REGISTRIES][CLIENT][INFO] Finished loading Scripts!
+[09:35:57.394][LOAD_REGISTRIES][CLIENT][INFO] Registering 0 custom gases.
+[09:35:57.416][LOAD_REGISTRIES][CLIENT][INFO] Registering 0 custom infuse types.
+[09:35:57.422][LOAD_REGISTRIES][CLIENT][INFO] Registering 0 custom pigments.
+[09:35:57.423][LOAD_REGISTRIES][CLIENT][INFO] Registering 0 custom robit skins.
+[09:35:57.425][LOAD_REGISTRIES][CLIENT][INFO] Registering 0 custom slurries.
+[09:36:44.911][COMMON_SETUP][CLIENT][INFO] Started loading Scripts for Loader 'setupCommon'!
+[09:36:44.994][COMMON_SETUP][CLIENT][INFO] Finished loading Scripts!

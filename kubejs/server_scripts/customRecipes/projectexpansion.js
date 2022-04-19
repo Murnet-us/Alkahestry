@@ -57,6 +57,190 @@ onEvent('recipes', event => {
     }
     )
 
+    //Compressed Collectors
+    event.remove({id: 'projectexpansion:collector/mk1_conversion'})
+    event.remove({id: 'projectexpansion:collector/mk2_conversion'})
+    event.remove({id: 'projectexpansion:collector/mk3_conversion'})
+    event.remove({id: 'projectexpansion:collector/basic'})
+    event.remove({id: 'projectexpansion:collector/dark'})
+    event.remove({id: 'projectexpansion:collector/red'})
+    event.remove({id: 'projectexpansion:collector/magenta'})
+    event.remove({id: 'projectexpansion:collector/pink'})
+    event.remove({id: 'projectexpansion:collector/violet'})
+    event.remove({id: 'projectexpansion:collector/purple'})
+    event.remove({id: 'projectexpansion:collector/blue'})
+    event.remove({id: 'projectexpansion:collector/cyan'})
+    event.remove({id: 'projectexpansion:collector/green'})
+    event.remove({id: 'projectexpansion:collector/lime'})
+    event.remove({id: 'projectexpansion:collector/white'})
+    event.remove({id: 'projectexpansion:collector/yellow'})
+    event.remove({id: 'projectexpansion:collector/faded'})
+    event.remove({id: 'projectexpansion:collector/final'})
+    event.shaped('projectexpansion:basic_compressed_collector', [
+        ' A ',
+        'ABA',
+        ' A '
+    ],
+    {
+        A: 'projecte:transmutation_table',
+        B: 'projectexpansion:basic_emc_link'
+    })
+
+    event.shaped('projectexpansion:dark_compressed_collector', [
+        ' A ',
+        'ABA',
+        ' A '
+    ],
+    {
+        A: 'projecte:dark_matter',
+        B: 'projectexpansion:basic_compressed_collector',
+    }
+    )
+
+    event.shaped('projectexpansion:red_compressed_collector', [
+        ' A ',
+        'ABA',
+        ' A '
+    ],
+    {
+        A: 'projecte:red_matter',
+        B: 'projectexpansion:dark_compressed_collector'
+    })
+
+    event.shaped('projectexpansion:magenta_compressed_collector', [
+        ' A ',
+        'ABA',
+        ' A '
+    ],
+    {
+        A: 'projectexpansion:magenta_matter',
+        B: 'projectexpansion:red_compressed_collector'
+    })
+
+    event.shaped('projectexpansion:pink_compressed_collector', [
+        ' A ',
+        'ABA',
+        ' A '
+    ],
+    {
+        A: 'projectexpansion:pink_matter',
+        B: 'projectexpansion:magenta_compressed_collector'
+    })
+
+    event.shaped('projectexpansion:purple_compressed_collector', [
+        ' A ',
+        'ABA',
+        ' A '
+    ],
+    {
+        A: 'projectexpansion:purple_matter',
+        B: 'projectexpansion:pink_compressed_collector'
+    })
+
+    event.shaped('projectexpansion:violet_compressed_collector', [
+        ' A ',
+        'ABA',
+        ' A '
+    ],
+    {
+        A: 'projectexpansion:violet_matter',
+        B: 'projectexpansion:purple_compressed_collector'
+    })
+
+    event.shaped('projectexpansion:blue_compressed_collector', [
+        ' A ',
+        'ABA',
+        ' A '
+    ],
+    {
+        A: 'projectexpansion:blue_matter',
+        B: 'projectexpansion:violet_compressed_collector'
+    })
+
+    event.shaped('projectexpansion:cyan_compressed_collector', [
+        ' A ',
+        'ABA',
+        ' A '
+    ],
+    {
+        A: 'projectexpansion:cyan_matter',
+        B: 'projectexpansion:blue_compressed_collector'
+    })
+
+    event.shaped('projectexpansion:green_compressed_collector', [
+        ' A ',
+        'ABA',
+        ' A '
+    ],
+    {
+        A: 'projectexpansion:green_matter',
+        B: 'projectexpansion:cyan_compressed_collector'
+    }
+    )
+
+    event.shaped('projectexpansion:lime_compressed_collector', [
+        ' A ',
+        'ABA',
+        ' A '
+    ], 
+    {
+        A: 'projectexpansion:lime_matter',
+        B: 'projectexpansion:green_compressed_collector'
+    })
+
+    event.shaped('projectexpansion:yellow_compressed_collector', [
+        ' A ',
+        'ABA',
+        ' A '
+    ],
+    {
+        A: 'projectexpansion:yellow_matter',
+        B: 'projectexpansion:lime_compressed_collector'
+    })
+
+    event.shaped('projectexpansion:orange_compressed_collector', [
+        ' A ',
+        'ABA',
+        ' A '
+    ],
+    {
+        A: 'projectexpansion:orange_matter',
+        B: 'projectexpansion:yellow_compressed_collector'
+    })
+
+    event.shaped('projectexpansion:white_compressed_collector', [
+        ' A ',
+        'ABA',
+        ' A '
+    ],
+    {
+        A: 'projectexpansion:white_matter',
+        B: 'projectexpansion:orange_compressed_collector'
+    })
+
+    event.shaped('projectexpansion:fading_compressed_collector', [
+        ' A ',
+        'ABA',
+        ' A '
+    ],
+    {
+        A: 'projectexpansion:fading_matter',
+        B: 'projectexpansion:white_compressed_collector'
+    })
+
+    event.shaped('projectexpansion:final_compressed_collector', [
+        'AAA',
+        'ABA',
+        'AAA'
+    ],
+    {
+        A: 'projectexpansion:final_star_shard',
+        B: 'projectexpansion:fading_compressed_collector'
+    }
+    )
+
+    //Final Star
+
 })
 
 onEvent('item.tags', event => {
