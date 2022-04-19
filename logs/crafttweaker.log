@@ -1,11 +1,11 @@
-[20:29:28.600][CONSTRUCT][CLIENT][INFO] Starting building internal Registries
-[20:29:30.708][CONSTRUCT][CLIENT][INFO] The following mods have explicit CraftTweaker support:
-'ars_nouveau' at version '1.24.22'
+[08:29:46.677][CONSTRUCT][CLIENT][INFO] Starting building internal Registries
+[08:29:48.550][CONSTRUCT][CLIENT][INFO] The following mods have explicit CraftTweaker support:
+'ars_nouveau' at version '1.24.23'
 'astralsorcery' at version '1.16.5-1.13.12'
 'atum' at version '1.16.5-2.2.10'
 'bloodmagic' at version '1.16.4-3.1.7-27'
 'botania' at version '1.16.5-420.2'
-'botanypots' at version '7.1.32'
+'botanypots' at version '7.1.33'
 'computercraft' at version '1.100.4'
 'crafttweaker' at version '7.1.2.508'
 'createautomated' at version '1.16.5-1.4.1a'
@@ -19,17 +19,6 @@
 'mysticalagriculture' at version '4.2.6'
 'pneumaticcraft' at version '1.16.5-2.15.6-315'
 'projecte' at version 'PE1.0.2'
-'thermal' at version '1.4.3.10'
-'thermal_foundation' at version '1.4.3.10'
-[20:29:32.364][CONSTRUCT][CLIENT][INFO] Completed building internal Registries
-[20:30:02.883][LOAD_REGISTRIES][CLIENT][INFO] Started loading Scripts for Loader 'mekanismcontent'!
-[20:30:03.451][LOAD_REGISTRIES][CLIENT][INFO] Finished loading Scripts!
-[20:30:03.451][LOAD_REGISTRIES][CLIENT][INFO] Registering 0 custom gases.
-[20:30:03.470][LOAD_REGISTRIES][CLIENT][INFO] Registering 0 custom infuse types.
-[20:30:03.477][LOAD_REGISTRIES][CLIENT][INFO] Registering 0 custom pigments.
-[20:30:03.480][LOAD_REGISTRIES][CLIENT][INFO] Registering 0 custom robit skins.
-[20:30:03.482][LOAD_REGISTRIES][CLIENT][INFO] Registering 0 custom slurries.
-[20:30:09.473][COMMON_SETUP][CLIENT][INFO] Started loading Scripts for Loader 'setupCommon'!
-[20:30:09.615][COMMON_SETUP][CLIENT][INFO] Finished loading Scripts!
-[20:30:46.970][DONE][CLIENT][INFO] Started loading Scripts for Loader 'crafttweaker'!
-[20:30:47.025][DONE][CLIENT][INFO] Finished loading Scripts!
+'thermal' at version '1.4.5.11'
+'thermal_foundation' at version '1.4.5.11'
+[08:29:50.311][CONSTRUCT][CLIENT][INFO] Completed building internal Registries

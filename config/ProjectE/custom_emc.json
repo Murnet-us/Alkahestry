@@ -175,6 +175,78 @@
     {
       "item": "fluxnetworks:flux_dust",
       "emc": 256
+    },
+    {
+      "item": "iceandfire:sea_serpent_scales_red",
+      "emc": 512
+    },
+    {
+      "item": "iceandfire:sea_serpent_fang",
+      "emc": 1024
+    },
+    {
+      "item": "#forge:scales/sea_serpent",
+      "emc": 512
+    },
+    {
+      "item": "naturesaura:aura_bloom",
+      "emc": 32
+    },
+    {
+      "item": "villager_inc_genesis:slimyreeds",
+      "emc": 32
+    },
+    {
+      "item": "byg:cattail",
+      "emc": 32
+    },
+    {
+      "item": "#forge:seeds",
+      "emc": 16
+    },
+    {
+      "item": "agricraft:agri_seed",
+      "emc": 0
+    },
+    {
+      "item": "#mysticalagriculture:essences",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:inferium_essence",
+      "emc": 32
+    },
+    {
+      "item": "xreliquary:withered_rib",
+      "emc": 640
+    },
+    {
+      "item": "iceandfire:witherbone",
+      "emc": 2048
+    },
+    {
+      "item": "wstweaks:fragment",
+      "emc": 241
+    },
+    {
+      "item": "bhc:wither_bone",
+      "emc": 2048
+    },
+    {
+      "item": "architects_palette:withered_bone",
+      "emc": 2048
+    },
+    {
+      "item": "cursed_realm_remastered:cursed_realm{AS_Amulet_Holder:[I;-613187442,1394885473,-1433394427,2035497107],Damage:0}",
+      "emc": 640
+    },
+    {
+      "item": "#minecraft:beehives",
+      "emc": 512
+    },
+    {
+      "item": "chisel:marble/raw",
+      "emc": 1
     }
   ]
 }
