@@ -74,7 +74,7 @@ onEvent('recipes', event => {
     event.remove({id: 'projectexpansion:collector/lime'})
     event.remove({id: 'projectexpansion:collector/white'})
     event.remove({id: 'projectexpansion:collector/yellow'})
-    event.remove({id: 'projectexpansion:collector/faded'})
+    event.remove({id: 'projectexpansion:collector/fading'})
     event.remove({id: 'projectexpansion:collector/final'})
     event.shaped('projectexpansion:basic_compressed_collector', [
         ' A ',

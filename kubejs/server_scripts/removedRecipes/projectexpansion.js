@@ -27,7 +27,7 @@ onEvent('recipes', event => {
     event.remove({id: 'projectexpansion:relay/lime'})
     event.remove({id: 'projectexpansion:relay/white'})
     event.remove({id: 'projectexpansion:relay/yellow'})
-    event.remove({id: 'projectexpansion:relay/faded'})
+    event.remove({id: 'projectexpansion:relay/fading'})
     event.remove({id: 'projectexpansion:relay/final'})
 
 
@@ -38,22 +38,39 @@ onEvent('recipes', event => {
 onEvent('jei.hide.items', event => {
     //Hidden Items
 
+    //Collectors
+    event.hide('projectexpansion:basic_collector')
+    event.hide('projectexpansion:dark_collector')
+    event.hide('projectexpansion:red_collector')
+    event.hide('projectexpansion:magenta_collector')
+    event.hide('projectexpansion:pink_collector')
+    event.hide('projectexpansion:violet_collector')
+    event.hide('projectexpansion:purple_collector')
+    event.hide('projectexpansion:blue_collector')
+    event.hide('projectexpansion:cyan_collector')
+    event.hide('projectexpansion:green_collector')
+    event.hide('projectexpansion:lime_collector')
+    event.hide('projectexpansion:white_collector')
+    event.hide('projectexpansion:yellow_collector')
+    event.hide('projectexpansion:fading_collector')
+    event.hide('projectexpansion:final_collector')
+
     //Relays
-    event.hide({id: 'projectexpansion:relay/basic'})
-    event.hide({id: 'projectexpansion:relay/dark'})
-    event.hide({id: 'projectexpansion:relay/red'})
-    event.hide({id: 'projectexpansion:relay/magenta'})
-    event.hide({id: 'projectexpansion:relay/pink'})
-    event.hide({id: 'projectexpansion:relay/violet'})
-    event.hide({id: 'projectexpansion:relay/purple'})
-    event.hide({id: 'projectexpansion:relay/blue'})
-    event.hide({id: 'projectexpansion:relay/cyan'})
-    event.hide({id: 'projectexpansion:relay/green'})
-    event.hide({id: 'projectexpansion:relay/lime'})
-    event.hide({id: 'projectexpansion:relay/white'})
-    event.hide({id: 'projectexpansion:relay/yellow'})
-    event.hide({id: 'projectexpansion:relay/faded'})
-    event.hide({id: 'projectexpansion:relay/final'})
+    event.hide('projectexpansion:basic_relay')
+    event.hide('projectexpansion:dark_relay')
+    event.hide('projectexpansion:red_relay')
+    event.hide('projectexpansion:magenta_relay')
+    event.hide('projectexpansion:pink_relay')
+    event.hide('projectexpansion:violet_relay')
+    event.hide('projectexpansion:purple_relay')
+    event.hide('projectexpansion:blue_relay')
+    event.hide('projectexpansion:cyan_relay')
+    event.hide('projectexpansion:green_relay')
+    event.hide('projectexpansion:lime_relay')
+    event.hide('projectexpansion:white_relay')
+    event.hide('projectexpansion:yellow_relay')
+    event.hide('projectexpansion:fading_relay')
+    event.hide('projectexpansion:final_relay')
 
 })
 
