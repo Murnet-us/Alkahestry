@@ -1,0 +1,36 @@
+{
+	id: "6C8850EA23933CA3"
+	group: "4D7AC86E873710AA"
+	order_index: 2
+	filename: "creative_items"
+	title: "End Game Goals"
+	icon: "projectexpansion:final_star"
+	subtitle: ["The goal of this pack is to complete this section and enable true creative mode."]
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 4.0d
+			y: -4.0d
+			shape: "hexagon"
+			description: ["Right-Clicking with the Final Star will toggle between Creative mode and Survival mode.  Congratulations!!! You have Mastered Alchemy!!"]
+			size: 8.0d
+			id: "10A38F601D1904D7"
+			tasks: [{
+				id: "1061CEC797A78468"
+				type: "item"
+				item: "projectexpansion:final_star"
+			}]
+		}
+		{
+			x: 4.0d
+			y: -9.5d
+			id: "61553409777AE26E"
+			tasks: [{
+				id: "3CB500A9B3C2046C"
+				type: "item"
+				item: "projectexpansion:final_compressed_collector"
+			}]
+		}
+	]
+}

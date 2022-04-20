@@ -1,0 +1,24 @@
+{
+	id: "17E8E9DB5E958A6C"
+	group: "4D7AC86E873710AA"
+	order_index: 1
+	filename: "progression_steps"
+	title: "Progression Steps"
+	subtitle: ["Confused on what to do next?  This quest line will help to guide you through the various progression levels."]
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [{
+		title: "Introductions"
+		icon: "minecraft:oak_log"
+		x: 3.5d
+		y: -5.0d
+		description: ["Start in the Introductions quests."]
+		dependencies: ["5B558E83F589CEC0"]
+		id: "36C54FE1C8D3E300"
+		tasks: [{
+			id: "70017ECB11CE0985"
+			type: "checkmark"
+			title: "Begin your journey"
+		}]
+	}]
+}

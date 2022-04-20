@@ -1,0 +1,197 @@
+{
+	id: "2697965C1B14DC1D"
+	group: "4D7AC86E873710AA"
+	order_index: 0
+	filename: "introductions"
+	title: "Introductions"
+	icon: "minecraft:oak_log"
+	subtitle: ["Start Here."]
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 1.5d
+			y: -6.5d
+			subtitle: "Let's Begin"
+			description: [
+				"Welcome to your new role as an intern for an Alchemy lab.  I hope you're ready, because we're going to dive in head first!"
+				""
+				"This quest line will serve as an introduction to the pack as well as a \"Getting Started\" series of quests intended to teach you the proper way to approach this pack."
+				""
+				"Alkahestry is a pack focused on the use of ProjectE.  Most items in this pack will have EMC values.  Many recipes have been changed to be more difficult or expensive, but the intent is that most items only need to be crafted one time."
+			]
+			id: "5B558E83F589CEC0"
+			tasks: [{
+				id: "6C14CAC4C1BEE81E"
+				type: "checkmark"
+				title: "Welcome to Your Alchemy Internship"
+			}]
+		}
+		{
+			title: "The Traditional Pack Start"
+			x: 1.5d
+			y: -5.0d
+			subtitle: "Why do people make these individual quests anymore?"
+			description: ["You know the drill.  Punch Trees.  Get Wood.  Make a crafting table.  Make a pickaxe.  Mine stone.  Make a furnace.  You've done this many times already.  Let's knock all of that out at once."]
+			dependencies: ["5B558E83F589CEC0"]
+			id: "3C29C9934544780F"
+			tasks: [
+				{
+					id: "183BF3F115C354DB"
+					type: "item"
+					title: "Any #minecraft:logs"
+					item: {
+						id: "itemfilters:tag"
+						Count: 1b
+						tag: {
+							value: "minecraft:logs"
+						}
+					}
+				}
+				{
+					id: "3C12BFE4336582B7"
+					type: "item"
+					title: "Any #refinedstorage:crafting_tables"
+					icon: "minecraft:crafting_table"
+					item: {
+						id: "itemfilters:tag"
+						Count: 1b
+						tag: {
+							value: "forestry:backpack/allow/builder"
+						}
+					}
+					consume_items: false
+				}
+				{
+					id: "68902B78AE7EBB78"
+					type: "item"
+					title: "Any #forge:cobblestone"
+					item: {
+						id: "itemfilters:tag"
+						Count: 1b
+						tag: {
+							value: "forge:cobblestone"
+						}
+					}
+					count: 8L
+				}
+				{
+					id: "434E178EE252A52E"
+					type: "item"
+					item: "minecraft:furnace"
+				}
+				{
+					id: "2419F841F0E7E2D6"
+					type: "item"
+					title: "Any #forge:stone"
+					item: {
+						id: "itemfilters:tag"
+						Count: 1b
+						tag: {
+							value: "forge:stone"
+						}
+					}
+					count: 4L
+				}
+			]
+		}
+		{
+			title: "Wait.... huh?"
+			x: 1.5d
+			y: -3.5d
+			subtitle: "Well that escalated quickly..."
+			description: ["This is where the pack TRULY begins.  Make a transmutation table.  Don't be scared, it's not quite as daunting a task as you might be thinking."]
+			dependencies: ["3C29C9934544780F"]
+			id: "1B0910A7CE95ECCE"
+			tasks: [{
+				id: "54083EB9631C51C4"
+				type: "item"
+				item: "projecte:transmutation_table"
+			}]
+		}
+		{
+			x: 0.5d
+			y: -1.5d
+			subtitle: "Iron chests... no wait..."
+			description: ["These crates are upgradeable.  They get quite large, they're inexpensive, and they retain their contents when you pick them up."]
+			dependencies: ["1B0910A7CE95ECCE"]
+			id: "2956F9AFB3172D06"
+			tasks: [{
+				id: "1CC125523130BC8E"
+				type: "item"
+				title: "Crates:  The upgradeable storage Alchemists prefer"
+				item: "bettercrates:wooden_crate"
+			}]
+		}
+		{
+			title: "Baby's First Storage Network"
+			x: 2.5d
+			y: -1.5d
+			subtitle: "We're not pulling any punches here."
+			description: ["Simple Storage Network will serve as your early game storage network solution.  It's basic, but it will get the job done.  Other options will open up later that offer auto-crafting and other capabilities."]
+			dependencies: ["1B0910A7CE95ECCE"]
+			id: "7379B4F6232C7BAA"
+			tasks: [
+				{
+					id: "4B17CBFE755D4598"
+					type: "item"
+					item: "storagenetwork:master"
+				}
+				{
+					id: "69DF47E6850F5687"
+					type: "item"
+					item: "storagenetwork:kabel"
+				}
+				{
+					id: "5FCBC3EE3E0025E7"
+					type: "item"
+					item: "storagenetwork:request"
+				}
+			]
+			rewards: [{
+				id: "1C23FC4BC07B3088"
+				type: "item"
+				item: "storagenetwork:kabel"
+				count: 64
+			}]
+		}
+		{
+			title: "EWW... Extended Crafting!!"
+			x: -2.0d
+			y: 0.5d
+			subtitle: "I promise... it's not that bad..."
+			description: ["This pack will rely heavily upon Extended Crafting.  Many of the recipes are changed to utilize the various extended crafting tables.  PackedEx is part of the pack, however, so around mid-game, the option of auto-crafting with the tables will be a real possibility."]
+			hide_dependency_lines: true
+			dependencies: ["5B558E83F589CEC0"]
+			id: "433BC0E6BDB61487"
+			tasks: [{
+				id: "03A81553D7E7761D"
+				type: "item"
+				item: "extendedcrafting:ultimate_table"
+			}]
+		}
+		{
+			title: "Bread and Butter"
+			x: 1.5d
+			y: 0.5d
+			subtitle: "The end of the beginning."
+			description: [
+				"This marks the last quest of the introductory line.  By crafting this and attaching it to your storage network, you now have access to your EMC recipes through said storage network.  This will work with all 3 storage networks as you progress."
+				""
+				"A couple things to note:"
+				"1:  This interface will not accept items that have NBT data stored on them.  If you want to learn these items or dispose of these items, you will need to manually do so with the transmutation table.  This is likely intentional by the mod creator to prevent losing said NBT data, as the table WILL NOT reproduce that data."
+			]
+			dependencies: [
+				"433BC0E6BDB61487"
+				"7379B4F6232C7BAA"
+				"2956F9AFB3172D06"
+			]
+			id: "7ACF51CFC554A63E"
+			tasks: [{
+				id: "0F5791CE7579A8CB"
+				type: "item"
+				item: "projectexpansion:transmutation_interface"
+			}]
+		}
+	]
+}
