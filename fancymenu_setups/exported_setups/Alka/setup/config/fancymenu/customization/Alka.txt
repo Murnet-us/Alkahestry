@@ -1,0 +1,214 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screen.MainMenuScreen
+  randomgroup = 1
+  renderorder = background
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=400322%
+  orientation = element
+  orientation_element = 0b6c3660-ce98-4d70-863d-8a8dfdbf6d0e1650638621024
+  x = 0
+  action = movebutton
+  y = 23
+}
+
+customization {
+  identifier = %id=400322%
+  width = 100
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400322%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources\fancymenu\buttonbg.png
+  backgroundnormal = resources\fancymenu\buttonbg.png
+}
+
+customization {
+  identifier = %id=604382%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=376322%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=400382%
+  orientation = element
+  orientation_element = 0b6c3660-ce98-4d70-863d-8a8dfdbf6d0e1650638621024
+  x = 0
+  action = movebutton
+  y = 69
+}
+
+customization {
+  identifier = %id=400382%
+  width = 100
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400382%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources\fancymenu\buttonbg.png
+  backgroundnormal = resources\fancymenu\buttonbg.png
+}
+
+customization {
+  identifier = %id=502382%
+  orientation = element
+  orientation_element = 0b6c3660-ce98-4d70-863d-8a8dfdbf6d0e1650638621024
+  x = 0
+  action = movebutton
+  y = 92
+}
+
+customization {
+  identifier = %id=502382%
+  width = 100
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=502382%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources\fancymenu\buttonbg.png
+  backgroundnormal = resources\fancymenu\buttonbg.png
+}
+
+customization {
+  identifier = %id=376382%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=400298%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=400298%
+  orientation = mid-left
+  x = 0
+  action = movebutton
+  y = -10
+}
+
+customization {
+  identifier = %id=400298%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources\fancymenu\buttonHoverbg.png
+  backgroundnormal = resources\fancymenu\buttonbg.png
+}
+
+customization {
+  identifier = %id=400346%
+  orientation = element
+  orientation_element = 0b6c3660-ce98-4d70-863d-8a8dfdbf6d0e1650638621024
+  x = 0
+  action = movebutton
+  y = 46
+}
+
+customization {
+  identifier = %id=400346%
+  width = 100
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400346%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources\fancymenu\buttonbg.png
+  backgroundnormal = resources\fancymenu\buttonbg.png
+}
+
+customization {
+  identifier = %id=502346%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=502346%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources\fancymenu\buttonbg.png
+  backgroundnormal = resources\fancymenu\buttonbg.png
+}
+
+customization {
+  identifier = %id=376346%
+  action = hidebutton
+}
+
+customization {
+  orientation = top-left
+  shape = rectangle
+  color = #000000
+  x = 0
+  width = %guiwidth%
+  action = addshape
+  actionid = f1c5984b-6629-40ca-ad8f-399d7045450e1650649189642
+  y = 0
+  height = %guiheight%
+}
+
+customization {
+  islocal = true
+  volume = 100
+  orientation = mid-centered
+  looping = false
+  x = -425
+  width = 853
+  action = custom_layout_element:fancymenu_extension:video_item
+  actionid = d978c367-7b30-4759-aafe-56ad03d724961650638000180
+  y = -240
+  video = resources/fancymenu/Alkahestry.mp4
+  height = 480
+}
+
+customization {
+  orientation = mid-left
+  restartbackgroundanimations = true
+  buttonaction = mimicbutton
+  backgroundhovered = resources\fancymenu\buttonHoverbg.png
+  label = SinglePlayer
+  loopbackgroundanimations = true
+  x = 0
+  width = 100
+  actionid = 0b6c3660-ce98-4d70-863d-8a8dfdbf6d0e1650638621024
+  action = addbutton
+  y = -28
+  backgroundnormal = resources\fancymenu\buttonbg.png
+  value = 400298
+  height = 20
+}
+

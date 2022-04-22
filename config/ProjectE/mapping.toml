@@ -141,6 +141,10 @@
 		#Maps Mekanism pressurized reaction recipes.
 		enabled = false
 
+	[CraftingMapper.TinkersConstructMeltingMapper]
+		#ProjectE-Integration Recipe Mapper for Tinkers Construct Melting Mapper. Required Mods: [tconstruct]
+		enabled = true
+
 	[CraftingMapper.MekItemStackToGas]
 		#Maps Mekanism item stack to gas recipes. (Gas conversion, Oxidizing)
 		enabled = true
@@ -151,6 +155,10 @@
 
 	[CraftingMapper.IndustrialForegoingCrusherMapper]
 		#ProjectE-Integration Recipe Mapper for Industrial Foregoing Crusher Mapper. Required Mods: [industrialforegoing]
+		enabled = true
+
+	[CraftingMapper.TinkersConstructAlloyingMapper]
+		#ProjectE-Integration Recipe Mapper for Tinkers Construct Alloying Mapper. Required Mods: [tconstruct]
 		enabled = true
 
 	[CraftingMapper.AstralSorceryBlockTransmutationMapper]
@@ -219,6 +227,10 @@
 
 	[CraftingMapper.BloodMagicTartaricForgeMapper]
 		#ProjectE-Integration Recipe Mapper for Blood Magic Tartaric Forge Mapper. Required Mods: [bloodmagic]
+		enabled = true
+
+	[CraftingMapper.TinkersConstructCastingMapper]
+		#ProjectE-Integration Recipe Mapper for Tinkers Construct Casting Mapper. Required Mods: [tconstruct]
 		enabled = true
 
 	[CraftingMapper.MekFluidToFluid]

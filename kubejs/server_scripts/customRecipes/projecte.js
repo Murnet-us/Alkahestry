@@ -73,6 +73,42 @@ onEvent('recipes', event => {
         }
     })
 
+    event.remove({id: "projecte:red_matter"})
+    event.custom({
+        type: "extendedcrafting:shaped_table",
+        pattern: [
+            "AAAAAAAAA",
+            "ABBBCDDDA",
+            "ABAAAAADA",
+            "ABAEEEADA",
+            "ABAECEADA",
+            "ABAEEEADA",
+            "ABAAAAADA",
+            "ABBBCDDDA",
+            "AAAAAAAAA"
+        ],
+        key: {
+            A: {
+                item: "projecte:aeternalis_fuel_block"
+            },
+            B: {
+                item: "projecte:mobius_fuel"
+            },
+            C: {
+                item: "projecte:dark_matter"
+            },
+            D: {
+                item: "projecte:alchemical_coal"
+            },
+            E: {
+                item: "projecte:aeternalis_fuel"
+            }
+        },
+        result: {
+            item: "projecte:red_matter"
+        }
+    })
+
 })
 
 onEvent('item.tags', event => {

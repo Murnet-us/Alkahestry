@@ -1,0 +1,169 @@
+type = menu
+
+customization-meta {
+  identifier = com.github.alexthe666.iceandfire.client.gui.IceAndFireMainMenu
+  randomgroup = 1
+  renderorder = background
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = true
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=400322%
+  orientation = mid-left
+  x = 0
+  action = movebutton
+  y = -37
+}
+
+customization {
+  identifier = %id=400322%
+  width = 100
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400322%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundnormal = resources\fancymenu\buttonbg.png
+}
+
+customization {
+  identifier = %id=604382%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=376322%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=400382%
+  orientation = mid-left
+  x = 0
+  action = movebutton
+  y = 11
+}
+
+customization {
+  identifier = %id=400382%
+  width = 100
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400382%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundnormal = resources\fancymenu\buttonbg.png
+}
+
+customization {
+  identifier = %id=502382%
+  orientation = mid-left
+  x = 0
+  action = movebutton
+  y = 35
+}
+
+customization {
+  identifier = %id=502382%
+  width = 100
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=502382%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundnormal = resources\fancymenu\buttonbg.png
+}
+
+customization {
+  identifier = %id=376382%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=400298%
+  orientation = mid-left
+  x = 0
+  action = movebutton
+  y = -61
+}
+
+customization {
+  identifier = %id=400298%
+  width = 100
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400298%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundnormal = resources\fancymenu\buttonbg.png
+}
+
+customization {
+  identifier = %id=400346%
+  orientation = mid-left
+  x = 0
+  action = movebutton
+  y = -13
+}
+
+customization {
+  identifier = %id=400346%
+  width = 100
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400346%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundnormal = resources\fancymenu\buttonbg.png
+}
+
+customization {
+  identifier = %id=502346%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=376346%
+  action = hidebutton
+}
+
+customization {
+  islocal = true
+  volume = 100
+  orientation = mid-centered
+  looping = false
+  x = -414
+  width = 849
+  action = custom_layout_element:fancymenu_extension:video_item
+  actionid = b01c90e1-9e5d-46f1-8be0-1e3563b5a25e1650637108568
+  y = -240
+  video = resources/fancymenu/Alkahestry.mp4
+  height = 480
+}
+
