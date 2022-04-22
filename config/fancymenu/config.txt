@@ -16,7 +16,7 @@ I:defaultguiscale = '-1';
 ##[customization]
 
 B:advancedmode = 'false';
-B:showcustomizationbuttons = 'true';
+B:showcustomizationbuttons = 'false';
 
 
 ##[mainmenu]
@@ -31,12 +31,12 @@ B:hideforgenotifications = 'false';
 
 ##[mainmenu_splash]
 
-S:splashcolor = '#ffff00';
-I:splashrotation = '-20';
+S:splashcolor = '#78ff34';
+I:splashrotation = '20';
 I:splashy = '0';
-I:splashx = '0';
+I:splashx = '250';
 B:hidesplashtext = 'false';
-S:splashtextfile = '';
+S:splashtextfile = 'resources/fancymenu/splash.txt';
 S:splashorientation = 'original';
 
 
