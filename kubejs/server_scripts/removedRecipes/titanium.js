@@ -20,7 +20,7 @@ onEvent('recipes', event => {
 onEvent('jei.hide.items', event => {
     //Hidden JEI Items
     //Iron Gear
-    event.hide({id: "titanium:iron_gear"})
+    event.hide("titanium:iron_gear")
 })
 
 onEvent('item.tags', event => {

@@ -1,1 +1,18 @@
-{"bookGuiScale":0,"clickedVisualize":false,"bookData":{}}
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "bigreactors:erguide": {
+      "viewedEntries": [
+        "bigreactors:reactor/moderators",
+        "bigreactors:reactor/part-computerport"
+      ],
+      "bookmarks": [],
+      "history": [
+        "bigreactors:reactor/part-computerport",
+        "bigreactors:reactor/moderators"
+      ],
+      "completedManualQuests": []
+    }
+  }
+}

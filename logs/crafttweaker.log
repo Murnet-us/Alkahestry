@@ -1,34 +1,25 @@
-[13:09:50.498][CONSTRUCT][CLIENT][INFO] Starting building internal Registries
-[13:09:52.693][CONSTRUCT][CLIENT][INFO] The following mods have explicit CraftTweaker support:
-'ars_nouveau' at version '1.24.23'
+[08:54:23.186][CONSTRUCT][CLIENT][INFO] Starting building internal Registries
+[08:54:25.044][CONSTRUCT][CLIENT][INFO] The following mods have explicit CraftTweaker support:
+'ars_nouveau' at version '1.25.0'
 'astralsorcery' at version '1.16.5-1.13.12'
-'atum' at version '1.16.5-2.2.10'
+'atum' at version '1.16.5-2.2.11'
 'bloodmagic' at version '1.16.4-3.1.7-27'
 'botania' at version '1.16.5-420.2'
 'botanypots' at version '7.1.33'
-'computercraft' at version '1.100.4'
-'crafttweaker' at version '7.1.2.508'
+'computercraft' at version '1.100.5'
+'crafttweaker' at version '7.1.2.509'
 'createautomated' at version '1.16.5-1.4.1a'
 'cyclic' at version '1.16.5-1.5.15'
-'draconicevolution' at version '3.0.22.444'
+'draconicevolution' at version '3.0.24.452'
 'extendedcrafting' at version '3.1.11'
 'immersiveengineering' at version '1.16.5-5.0.7-143'
 'immersivepetroleum' at version '3.3.0-11'
 'jeitweaker' at version '1.1.0.49'
 'mekanism' at version '10.1.2'
 'mysticalagriculture' at version '4.2.6'
-'pneumaticcraft' at version '1.16.5-2.15.6-315'
+'pneumaticcraft' at version '1.16.5-2.15.7-320'
 'projecte' at version 'PE1.0.2'
 'tconstruct' at version '3.3.4.335'
 'thermal' at version '1.4.5.11'
 'thermal_foundation' at version '1.4.5.11'
-[13:09:54.383][CONSTRUCT][CLIENT][INFO] Completed building internal Registries
-[13:10:27.462][LOAD_REGISTRIES][CLIENT][INFO] Started loading Scripts for Loader 'mekanismcontent'!
-[13:10:28.026][LOAD_REGISTRIES][CLIENT][INFO] Finished loading Scripts!
-[13:10:28.027][LOAD_REGISTRIES][CLIENT][INFO] Registering 0 custom gases.
-[13:10:28.038][LOAD_REGISTRIES][CLIENT][INFO] Registering 0 custom infuse types.
-[13:10:28.046][LOAD_REGISTRIES][CLIENT][INFO] Registering 0 custom pigments.
-[13:10:28.049][LOAD_REGISTRIES][CLIENT][INFO] Registering 0 custom robit skins.
-[13:10:28.050][LOAD_REGISTRIES][CLIENT][INFO] Registering 0 custom slurries.
-[13:11:19.267][COMMON_SETUP][CLIENT][INFO] Started loading Scripts for Loader 'setupCommon'!
-[13:11:19.356][COMMON_SETUP][CLIENT][INFO] Finished loading Scripts!
+[08:54:26.714][CONSTRUCT][CLIENT][INFO] Completed building internal Registries
